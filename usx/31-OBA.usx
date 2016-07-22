@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<usx version="2.0" xmlns:br="http://semanticbible.com/bibleref/bibleref-overview.html">
+<usx version="2.0">
 	<book code="OBA" style="id">American Standard Version (1901)</book>
 	<chapter number="1" style="c"/>
 	<para style="p"><verse number="1" style="v"/>The vision of Obadiah.</para>

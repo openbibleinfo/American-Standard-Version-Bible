@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<usx version="2.0" xmlns:br="http://semanticbible.com/bibleref/bibleref-overview.html">
+<usx version="2.0">
 	<book code="JOB" style="id">American Standard Version (1901)</book>
 	<chapter number="1" style="c"/>
-	<para style="p"><verse number="1" style="v"/>There was a man in the land of Uz, whose name was <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Iyob</char>.</char></note>Job; and that man was perfect and upright, and one that feared God, and turned away from evil. <verse number="2" style="v"/>And there were born unto him seven sons and three daughters. <verse number="3" style="v"/>His <note caller="-" style="f"><char style="ft">Or, <char style="it">cattle</char></char></note>substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she-asses, and a very great household; so that this man was the greatest of all the children of the east. <verse number="4" style="v"/>And his sons went and held a feast in the house of each one upon his day; and they sent and called for their three sisters to eat and to drink with them. <verse number="5" style="v"/>And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt-offerings according to the number of them all: for Job said, It may be that my sons have sinned, and <note caller="-" style="f"><char style="ft">Or, <char style="it">blasphemed</char>. So <char style="xt" br:bibleref="JOB.1.11">verse 11</char>; <char style="xt" br:bibleref="JOB.2.5">2:5</char>, <char style="xt" br:bibleref="JOB.2.9">9</char></char></note>renounced God in their hearts. Thus did Job continually.</para>
+	<para style="p"><verse number="1" style="v"/>There was a man in the land of Uz, whose name was <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Iyob</char>.</char></note>Job; and that man was perfect and upright, and one that feared God, and turned away from evil. <verse number="2" style="v"/>And there were born unto him seven sons and three daughters. <verse number="3" style="v"/>His <note caller="-" style="f"><char style="ft">Or, <char style="it">cattle</char></char></note>substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she-asses, and a very great household; so that this man was the greatest of all the children of the east. <verse number="4" style="v"/>And his sons went and held a feast in the house of each one upon his day; and they sent and called for their three sisters to eat and to drink with them. <verse number="5" style="v"/>And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt-offerings according to the number of them all: for Job said, It may be that my sons have sinned, and <note caller="-" style="f"><char style="ft">Or, <char style="it">blasphemed</char>. So <ref loc="JOB 1:11">verse 11</ref>; <ref loc="JOB 2:5">2:5</ref>, <ref loc="JOB 2:9">9</ref></char></note>renounced God in their hearts. Thus did Job continually.</para>
 	<para style="p"><verse number="6" style="v"/>Now it came to pass on the day when the sons of God came to present themselves before Jehovah, that <note caller="-" style="f"><char style="ft">That is, <char style="it">the Adversary</char>.</char></note>Satan also came among them. <verse number="7" style="v"/>And Jehovah said unto Satan, Whence comest thou? Then Satan answered Jehovah, and said, From going to and fro in the earth, and from walking up and down in it. <verse number="8" style="v"/>And Jehovah said unto Satan, Hast thou considered my servant Job? <note caller="-" style="f"><char style="ft">Or, <char style="it">that</char></char></note>for there is none like him in the earth, a perfect and an upright man, one that feareth God, and turneth away from evil. <verse number="9" style="v"/>Then Satan answered Jehovah, and said, Doth Job fear God for nought? <verse number="10" style="v"/>Hast not thou made a hedge about him, and about his house, and about all that he hath, on every side? thou hast blessed the work of his hands, and his <note caller="-" style="f"><char style="ft">Or, <char style="it">cattle</char></char></note>substance is increased in the land. <verse number="11" style="v"/>But put forth thy hand now, and touch all that he hath, and he will renounce thee to thy face. <verse number="12" style="v"/>And Jehovah said unto Satan, Behold, all that he hath is in thy <note caller="-" style="f"><char style="ft">Hebrew <char style="it">hand</char>.</char></note>power; only upon himself put not forth thy hand. So Satan went forth from the presence of Jehovah.</para>
 	<para style="p"><verse number="13" style="v"/>And it fell on a day when his sons and his daughters were eating and drinking wine in their eldest brother&#8217;s house, <verse number="14" style="v"/>that there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them; <verse number="15" style="v"/>and <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Sheba</char>.</char></note>the Sabeans fell <char style="add">upon them</char>, and took them away: yea, they have slain the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">young men</char>.</char></note>servants with the edge of the sword; and I only am escaped alone to tell thee. <verse number="16" style="v"/>While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep and the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">young men</char>.</char></note>servants, and consumed them; and I only am escaped alone to tell thee. <verse number="17" style="v"/>While he was yet speaking, there came also another, and said, The Chaldeans made three bands, and <note caller="-" style="f"><char style="ft">Or, <char style="it">made a raid</char></char></note>fell upon the camels, and have taken them away, yea, and slain the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">young men</char>.</char></note>servants with the edge of the sword; and I only am escaped alone to tell thee. <verse number="18" style="v"/>While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother&#8217;s house; <verse number="19" style="v"/>and, behold, there came a great wind <note caller="-" style="f"><char style="ft">Or, <char style="it">over</char></char></note>from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.</para>
 	<para style="p"><verse number="20" style="v"/>Then Job arose, and rent his robe, and shaved his head, and fell down upon the ground, and worshipped; <verse number="21" style="v"/>and he said, Naked came I out of my mother&#8217;s womb, and naked shall I return thither: Jehovah gave, and Jehovah hath taken away; blessed be the name of Jehovah. <verse number="22" style="v"/>In all this Job sinned not, nor <note caller="-" style="f"><char style="ft">Or, <char style="it">attributed folly to God</char></char></note>charged God foolishly.</para>
@@ -11,7 +11,7 @@
 	<para style="p"><verse number="7" style="v"/>So Satan went forth from the presence of Jehovah, and smote Job with sore boils from the sole of his foot unto his crown. <verse number="8" style="v"/>And he took him a potsherd to scrape himself therewith; and he sat among the ashes. <verse number="9" style="v"/>Then said his wife unto him, Dost thou still hold fast thine integrity? renounce God, and die. <verse number="10" style="v"/>But he said unto her, Thou speakest as one of the <note caller="-" style="f"><char style="ft">Or, <char style="it">impious</char></char></note>foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.</para>
 	<para style="p"><verse number="11" style="v"/>Now when Job&#8217;s three friends heard of all this evil that was come upon him, they came every one from his own place: Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite; and they made an appointment together to come to bemoan him and to comfort him. <verse number="12" style="v"/>And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his robe, and sprinkled dust upon their heads toward heaven. <verse number="13" style="v"/>So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his <note caller="-" style="f"><char style="ft">Or, <char style="it">pain</char></char></note>grief was very great.</para>
 	<chapter number="3" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>After this opened Job his mouth, and cursed his day.</para>
 	<para style="q1"><verse number="2" style="v"/>And Job answered and said:</para>
 	<para style="q1"><verse number="3" style="v"/>Let the day perish wherein I was born,</para>
@@ -52,7 +52,7 @@
 	<para style="q1">They hear not the voice of the taskmaster.</para>
 	<para style="q1"><verse number="19" style="v"/>The small and the great are there:</para>
 	<para style="q1">And the servant is free from his master.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="20" style="v"/>Wherefore is light given to him that is in misery,</para>
 	<para style="q1">And life unto the bitter in soul;</para>
 	<para style="q1"><verse number="21" style="v"/>Who <note caller="-" style="f"><char style="ft">Hebrew <char style="it">wait</char>.</char></note>long for death, but it cometh not,</para>
@@ -68,7 +68,7 @@
 	<para style="q1"><verse number="26" style="v"/>I <note caller="-" style="f"><char style="ft">Or, <char style="it">was not at ease&#160;.&#160;.&#160;. yet trouble came</char></char></note>am not at ease, neither am I quiet, neither have I rest;</para>
 	<para style="q1">But trouble cometh.</para>
 	<chapter number="4" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Eliphaz the Temanite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>If one assay to commune with thee, wilt thou be grieved?</para>
 	<para style="q1">But who can withhold himself from speaking?</para>
@@ -90,7 +90,7 @@
 	<para style="q1">And the teeth of the young lions, are broken.</para>
 	<para style="q1"><verse number="11" style="v"/>The old lion perisheth for lack of prey,</para>
 	<para style="q1">And the whelps of the lioness are scattered abroad.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>Now a thing was <note caller="-" style="f"><char style="ft">Hebrew <char style="it">brought by stealth</char></char></note>secretly brought to me,</para>
 	<para style="q1">And mine ear received a whisper thereof.</para>
 	<para style="q1"><verse number="13" style="v"/>In thoughts from the visions of the night,</para>
@@ -114,7 +114,7 @@
 	<para style="q1"><verse number="21" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Is not their excellency which is in them removed?</char></char></note>Is not their tent-cord plucked up within them?</para>
 	<para style="q1">They die, and that without wisdom.</para>
 	<chapter number="5" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Call now; is there any that will answer thee?</para>
 	<para style="q1">And to which of the holy ones wilt thou turn?</para>
 	<para style="q1"><verse number="2" style="v"/>For vexation killeth the foolish man,</para>
@@ -127,11 +127,11 @@
 	<para style="q1"><verse number="5" style="v"/>Whose harvest the hungry eateth up,</para>
 	<para style="q1">And taketh it even out of the thorns;</para>
 	<para style="q1">And <note caller="-" style="f"><char style="ft">According to Vulgate, <char style="it">the thirsty swallow up</char>.</char></note>the snare gapeth for their substance.</para>
-	<para style="q1"><verse number="6" style="v"/>For <note caller="-" style="f"><char style="ft">Or, <char style="it">iniquity</char>. See <char style="xt" br:bibleref="JOB.4.8">4:8</char>.</char></note>affliction cometh not forth from the dust,</para>
+	<para style="q1"><verse number="6" style="v"/>For <note caller="-" style="f"><char style="ft">Or, <char style="it">iniquity</char>. See <ref loc="JOB 4:8">4:8</ref>.</char></note>affliction cometh not forth from the dust,</para>
 	<para style="q1">Neither doth trouble spring out of the ground;</para>
 	<para style="q1"><verse number="7" style="v"/>But man is born unto trouble,</para>
 	<para style="q1">As <note caller="-" style="f"><char style="ft">Hebrew <char style="it">the sons of flame</char> (or <char style="it">of lightning</char>).</char></note>the sparks fly upward.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>But as for me, I would seek unto God,</para>
 	<para style="q1">And unto God would I commit my cause;</para>
 	<para style="q1"><verse number="9" style="v"/>Who doeth great things and unsearchable,</para>
@@ -150,7 +150,7 @@
 	<para style="q1">Even the needy from the hand of the mighty.</para>
 	<para style="q1"><verse number="16" style="v"/>So the poor hath hope,</para>
 	<para style="q1">And iniquity stoppeth her mouth.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="17" style="v"/>Behold, happy is the man whom God <note caller="-" style="f"><char style="ft">Or, <char style="it">reproveth</char></char></note>correcteth:</para>
 	<para style="q1">Therefore despise not thou the chastening of the Almighty.</para>
 	<para style="q1"><verse number="18" style="v"/>For he maketh sore, and bindeth up;</para>
@@ -174,7 +174,7 @@
 	<para style="q1"><verse number="27" style="v"/>Lo this, we have searched it, so it is;</para>
 	<para style="q1">Hear it, and know thou it <note caller="-" style="f"><char style="ft">Hebrew <char style="it">for thyself</char>.</char></note>for thy good.</para>
 	<chapter number="6" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Oh that my vexation were but weighed,</para>
 	<para style="q1">And all my calamity laid in the balances!</para>
@@ -189,7 +189,7 @@
 	<para style="q1">Or is there any taste in <note caller="-" style="f"><char style="ft">Or, <char style="it">the juice of purslain</char></char></note>the white of an egg?</para>
 	<para style="q1"><verse number="7" style="v"/><note caller="-" style="f"><char style="ft">Or, What things <char style="it">my soul refused to touch, these are as my loathsome food</char></char></note>My soul refuseth to touch <char style="add">them</char>;</para>
 	<para style="q1">They are as loathsome food to me.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Oh that I might have my request;</para>
 	<para style="q1">And that God would grant <char style="add">me</char> the thing that I long for!</para>
 	<para style="q1"><verse number="9" style="v"/>Even that it would please God to crush me;</para>
@@ -203,7 +203,7 @@
 	<para style="q1">Or is my flesh of brass?</para>
 	<para style="q1"><verse number="13" style="v"/>Is it not that I have no help in me,</para>
 	<para style="q1">And that wisdom is driven quite from me?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="14" style="v"/>To him that is ready to faint kindness <char style="add">should be showed</char> from his friend;</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Else might he forsake</char>. Or, <char style="it">But he forsaketh</char></char></note>Even to him that forsaketh the fear of the Almighty.</para>
 	<para style="q1"><verse number="15" style="v"/>My brethren have dealt deceitfully as a brook,</para>
@@ -224,7 +224,7 @@
 	<para style="q1">Or, Offer a present for me of your substance?</para>
 	<para style="q1"><verse number="23" style="v"/>Or, Deliver me from the adversary&#8217;s hand?</para>
 	<para style="q1">Or, Redeem me from the hand of the oppressors?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="24" style="v"/>Teach me, and I will hold my peace;</para>
 	<para style="q1">And cause me to understand wherein I have erred.</para>
 	<para style="q1"><verse number="25" style="v"/>How forcible are words of uprightness!</para>
@@ -240,7 +240,7 @@
 	<para style="q1"><verse number="30" style="v"/>Is there injustice on my tongue?</para>
 	<para style="q1">Cannot my taste discern mischievous things?</para>
 	<chapter number="7" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Is there not a <note caller="-" style="f"><char style="ft">Or, <char style="it">time of service</char></char></note>warfare to man upon earth?</para>
 	<para style="q1">And are not his days like the days of a hireling?</para>
 	<para style="q1"><verse number="2" style="v"/>As a servant that earnestly desireth the shadow,</para>
@@ -262,7 +262,7 @@
 	<para style="q1">So he that goeth down to Sheol shall come up no more.</para>
 	<para style="q1"><verse number="10" style="v"/>He shall return no more to his house,</para>
 	<para style="q1">Neither shall his place know him any more.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="11" style="v"/>Therefore I will not refrain my mouth;</para>
 	<para style="q1">I will speak in the anguish of my spirit;</para>
 	<para style="q1">I will complain in the bitterness of my soul.</para>
@@ -289,7 +289,7 @@
 	<para style="q1">For now shall I lie down in the dust;</para>
 	<para style="q1">And thou wilt seek me diligently, but I shall not be.</para>
 	<chapter number="8" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Bildad the Shuhite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>How long wilt thou speak these things?</para>
 	<para style="q1">And <char style="add">how long</char> shall the words of thy mouth be <char style="add">like</char> a mighty wind?</para>
@@ -304,14 +304,14 @@
 	<para style="q1">And make the habitation of thy righteousness prosperous.</para>
 	<para style="q1"><verse number="7" style="v"/>And though thy beginning was small,</para>
 	<para style="q1">Yet thy latter end would greatly increase.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>For inquire, I pray thee, of the former age,</para>
 	<para style="q1">And apply thyself to that which their fathers have searched out</para>
 	<para style="q1"><verse number="9" style="v"/>(For we are but of yesterday, and know nothing,</para>
 	<para style="q1">Because our days upon earth are a shadow);</para>
 	<para style="q1"><verse number="10" style="v"/>Shall not they teach thee, and tell thee,</para>
 	<para style="q1">And utter words out of their heart?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="11" style="v"/>Can the <note caller="-" style="f"><char style="ft">Or, <char style="it">papyrus</char></char></note>rush grow up without mire?</para>
 	<para style="q1">Can the <note caller="-" style="f"><char style="ft">Or, <char style="it">reed-grass</char></char></note>flag grow without water?</para>
 	<para style="q1"><verse number="12" style="v"/>Whilst it is yet in its greenness, <char style="add">and</char> not cut down,</para>
@@ -337,7 +337,7 @@
 	<para style="q1"><verse number="22" style="v"/>They that hate thee shall be clothed with shame;</para>
 	<para style="q1">And the tent of the wicked shall be no more.</para>
 	<chapter number="9" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Of a truth I know that it is so:</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">For</char></char></note>But how can man be just <note caller="-" style="f"><char style="ft">Or, <char style="it">before</char></char></note>with God?</para>
@@ -361,9 +361,9 @@
 	<para style="q1">He passeth on also, but I perceive him not.</para>
 	<para style="q1"><verse number="12" style="v"/>Behold, he seizeth <char style="add">the prey</char>, who can <note caller="-" style="f"><char style="ft">Or, <char style="it">turn him back</char></char></note>hinder him?</para>
 	<para style="q1">Who will say unto him, What doest thou?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>God will not withdraw his anger;</para>
-	<para style="q1">The helpers of <note caller="-" style="f"><char style="ft">Or, <char style="it">arrogancy</char>. See <char style="xt" br:bibleref="ISA.30.7">Isa. 30:7</char>.</char></note>Rahab <note caller="-" style="f"><char style="ft">Or, <char style="it">did</char></char></note>do stoop under him.</para>
+	<para style="q1">The helpers of <note caller="-" style="f"><char style="ft">Or, <char style="it">arrogancy</char>. See <ref loc="ISA 30:7">Isa. 30:7</ref>.</char></note>Rahab <note caller="-" style="f"><char style="ft">Or, <char style="it">did</char></char></note>do stoop under him.</para>
 	<para style="q1"><verse number="14" style="v"/>How much less shall I answer him,</para>
 	<para style="q1">And choose out my words <char style="add">to reason</char> with him?</para>
 	<para style="q1"><verse number="15" style="v"/>Whom, though I were righteous, yet would I not answer;</para>
@@ -387,7 +387,7 @@
 	<para style="q1"><verse number="24" style="v"/>The earth is given into the hand of the wicked;</para>
 	<para style="q1">He covereth the faces of the judges thereof:</para>
 	<para style="q1">If <char style="add">it be</char> not <char style="add">he</char>, who then is it?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="25" style="v"/>Now my days are swifter than a <note caller="-" style="f"><char style="ft">Or, <char style="it">runner</char></char></note>post:</para>
 	<para style="q1">They flee away, they see no good.</para>
 	<para style="q1"><verse number="26" style="v"/>They are passed away as the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">ships of reed</char>.</char></note>swift ships;</para>
@@ -411,7 +411,7 @@
 	<para style="q1"><verse number="35" style="v"/>Then would I speak, and not fear him;</para>
 	<para style="q1">For I am not so in myself.</para>
 	<chapter number="10" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>My soul is weary of my life;</para>
 	<para style="q1">I will give free course to my complaint;</para>
 	<para style="q1">I will speak in the bitterness of my soul.</para>
@@ -428,7 +428,7 @@
 	<para style="q1">And searchest after my sin,</para>
 	<para style="q1"><verse number="7" style="v"/>Although thou knowest that I am not wicked,</para>
 	<para style="q1">And there is none that can deliver out of thy hand?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Thy hands have framed me and fashioned me</para>
 	<para style="q1">Together round about; yet thou dost destroy me.</para>
 	<para style="q1"><verse number="9" style="v"/>Remember, I beseech thee, that thou hast fashioned me as clay;</para>
@@ -452,7 +452,7 @@
 	<para style="q1"><verse number="17" style="v"/>Thou renewest thy witnesses against me,</para>
 	<para style="q1">And increasest thine indignation upon me:</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Host after host is against me</char>.</char></note>Changes and warfare are with me.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/>Wherefore then hast thou brought me forth out of the womb?</para>
 	<para style="q1">I had given up the ghost, and no eye had seen me.</para>
 	<para style="q1"><verse number="19" style="v"/>I should have been as though I had not been;</para>
@@ -465,7 +465,7 @@
 	<para style="q1"><char style="add">The land</char> of the shadow of death, without any order,</para>
 	<para style="q1">And where the light is as <note caller="-" style="f"><char style="ft">Hebrew <char style="it">thick darkness</char>.</char></note>midnight.</para>
 	<chapter number="11" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Zophar the Naamathite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Should not the multitude of words be answered?</para>
 	<para style="q1">And should a man full of talk be justified?</para>
@@ -478,7 +478,7 @@
 	<para style="q1"><verse number="6" style="v"/>And that he would show thee the secrets of wisdom!</para>
 	<para style="q1">For he is manifold in understanding.</para>
 	<para style="q1">Know therefore that God <note caller="-" style="f"><char style="ft">Or, <char style="it">remitteth</char> (Hebrew <char style="it">causeth to be forgotten</char>) <char style="it">unto thee of thine iniquity</char></char></note>exacteth of thee less than thine iniquity deserveth.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Canst thou find out the deep things of God?</char></char></note>Canst thou by searching find out God?</para>
 	<para style="q1">Canst thou find out the Almighty unto perfection?</para>
 	<para style="q1"><verse number="8" style="v"/><note caller="-" style="f"><char style="ft">Hebrew <char style="it">The heights of heaven</char>.</char></note>It is high as heaven; what canst thou do?</para>
@@ -491,7 +491,7 @@
 	<para style="q1">He seeth iniquity also, <note caller="-" style="f"><char style="ft">Or, <char style="it">and him that considereth not</char></char></note>even though he consider it not.</para>
 	<para style="q1"><verse number="12" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">But an empty man will get understanding, when a wild ass&#8217;s colt is born a man</char>.</char></note>But vain man is void of understanding,</para>
 	<para style="q1">Yea, man is born <char style="add">as</char> a wild ass&#8217;s colt.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>If thou set thy heart aright,</para>
 	<para style="q1">And stretch out thy hands toward him;</para>
 	<para style="q1"><verse number="14" style="v"/>If iniquity be in thy hand, put it far away,</para>
@@ -510,7 +510,7 @@
 	<para style="q1">And <note caller="-" style="f"><char style="ft">Hebrew <char style="it">refuge is perished from them</char>.</char></note>they shall have no way to flee;</para>
 	<para style="q1">And their hope shall be the giving up of the ghost.</para>
 	<chapter number="12" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>No doubt but ye are the people,</para>
 	<para style="q1">And wisdom shall die with you.</para>
@@ -525,7 +525,7 @@
 	<para style="q1"><verse number="6" style="v"/>The tents of robbers prosper,</para>
 	<para style="q1">And they that provoke God are secure;</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">That bring</char> their <char style="it">god in their hand</char></char></note>Into whose hand God bringeth <char style="add">abundantly</char>.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>But ask now the beasts, and they shall teach thee;</para>
 	<para style="q1">And the birds of the heavens, and they shall tell thee:</para>
 	<para style="q1"><verse number="8" style="v"/>Or speak to the earth, and it shall teach thee;</para>
@@ -538,7 +538,7 @@
 	<para style="q1">Even as the palate tasteth its food?</para>
 	<para style="q1"><verse number="12" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">With aged men</char>, ye say, <char style="it">is wisdom</char></char></note>With aged men is wisdom,</para>
 	<para style="q1">And in length of days understanding.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>With <note caller="-" style="f"><char style="ft">Hebrew <char style="it">him</char>.</char></note><char style="add">God</char> is wisdom and might;</para>
 	<para style="q1">He hath counsel and understanding.</para>
 	<para style="q1"><verse number="14" style="v"/>Behold, he breaketh down, and it cannot be built again;</para>
@@ -566,12 +566,12 @@
 	<para style="q1"><verse number="25" style="v"/>They grope in the dark without light;</para>
 	<para style="q1">And he maketh them to <note caller="-" style="f"><char style="ft">Hebrew <char style="it">wander</char>.</char></note>stagger like a drunken man.</para>
 	<chapter number="13" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Lo, mine eye hath seen all <char style="add">this</char>,</para>
 	<para style="q1">Mine ear hath heard and understood it.</para>
 	<para style="q1"><verse number="2" style="v"/>What ye know, <char style="add">the same</char> do I know also:</para>
 	<para style="q1">I am not inferior unto you.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="3" style="v"/>Surely I would speak to the Almighty,</para>
 	<para style="q1">And I desire to reason with God.</para>
 	<para style="q1"><verse number="4" style="v"/>But ye are forgers of lies;</para>
@@ -592,7 +592,7 @@
 	<para style="q1">And his dread fall upon you?</para>
 	<para style="q1"><verse number="12" style="v"/>Your memorable sayings are proverbs of ashes,</para>
 	<para style="q1">Your defences are defences of clay.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>Hold your peace, let me alone, that I may speak;</para>
 	<para style="q1">And let come on me what will.</para>
 	<para style="q1"><verse number="14" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">At all adventures I will take etc.</char></char></note>Wherefore should I take my flesh in my teeth,</para>
@@ -607,7 +607,7 @@
 	<para style="q1">I know that I <note caller="-" style="f"><char style="ft">Or, <char style="it">shall be justified</char></char></note>am righteous.</para>
 	<para style="q1"><verse number="19" style="v"/>Who is he that will contend with me?</para>
 	<para style="q1">For then <note caller="-" style="f"><char style="ft">Or, <char style="it">if I hold my peace, I shall give up etc.</char></char></note>would I hold my peace and give up the ghost.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="20" style="v"/>Only do not two things unto me;</para>
 	<para style="q1">Then will I not hide myself from thy face:</para>
 	<para style="q1"><verse number="21" style="v"/>Withdraw thy hand far from me;</para>
@@ -628,7 +628,7 @@
 	<para style="q1"><verse number="28" style="v"/><note caller="-" style="f"><char style="ft">Hebrew <char style="it">And he is like</char>.</char></note>Though I am like a rotten thing that consumeth,</para>
 	<para style="q1">Like a garment that is moth-eaten.</para>
 	<chapter number="14" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Man, that is born of a woman,</para>
 	<para style="q1">Is of few days, and full of trouble.</para>
 	<para style="q1"><verse number="2" style="v"/>He cometh forth like a flower, and <note caller="-" style="f"><char style="ft">Or, <char style="it">withereth</char></char></note>is cut down:</para>
@@ -641,7 +641,7 @@
 	<para style="q1">And thou hast appointed his bounds that he cannot pass;</para>
 	<para style="q1"><verse number="6" style="v"/>Look away from him, that he may <note caller="-" style="f"><char style="ft">Hebrew <char style="it">cease</char>.</char></note>rest,</para>
 	<para style="q1">Till he shall <note caller="-" style="f"><char style="ft">Or, <char style="it">have pleasure in</char></char></note>accomplish, as a hireling, his day.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>For there is hope of a tree,</para>
 	<para style="q1">If it be cut down, that it will sprout again,</para>
 	<para style="q1">And that the tender branch thereof will not cease.</para>
@@ -656,7 +656,7 @@
 	<para style="q1"><verse number="12" style="v"/>So man lieth down and riseth not:</para>
 	<para style="q1">Till the heavens be no more, they shall not awake,</para>
 	<para style="q1">Nor be roused out of their sleep.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>Oh that thou wouldest hide me in Sheol,</para>
 	<para style="q1">That thou wouldest keep me secret, until thy wrath be past,</para>
 	<para style="q1">That thou wouldest appoint me a set time, and remember me!</para>
@@ -669,7 +669,7 @@
 	<para style="q1">Dost thou not watch over my sin?</para>
 	<para style="q1"><verse number="17" style="v"/>My transgression is sealed up in a bag,</para>
 	<para style="q1">And thou fastenest up mine iniquity.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/>But the mountain falling <note caller="-" style="f"><char style="ft">Hebrew <char style="it">fadeth away</char>.</char></note>cometh to nought;</para>
 	<para style="q1">And the rock is removed out of its place;</para>
 	<para style="q1"><verse number="19" style="v"/>The waters wear the stones;</para>
@@ -682,7 +682,7 @@
 	<para style="q1"><verse number="22" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Only for himself his flesh hath pain, and for himself his soul mourneth</char></char></note>But his flesh upon him hath pain,</para>
 	<para style="q1">And his soul within him mourneth.</para>
 	<chapter number="15" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Eliphaz the Temanite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Should a wise man make answer with <note caller="-" style="f"><char style="ft">Hebrew <char style="it">knowledge of wind</char>.</char></note>vain knowledge,</para>
 	<para style="q1">And fill himself with the east wind?</para>
@@ -694,7 +694,7 @@
 	<para style="q1">And thou choosest the tongue of the crafty.</para>
 	<para style="q1"><verse number="6" style="v"/>Thine own mouth condemneth thee, and not I;</para>
 	<para style="q1">Yea, thine own lips testify against thee.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>Art thou the first man that was born?</para>
 	<para style="q1">Or wast thou brought forth before the hills?</para>
 	<para style="q1"><verse number="8" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Dost thou hearken in the council</char></char></note>Hast thou heard the secret counsel of God?</para>
@@ -715,7 +715,7 @@
 	<para style="q1">Yea, the heavens are not clean in his sight:</para>
 	<para style="q1"><verse number="16" style="v"/>How much less <note caller="-" style="f"><char style="ft">Or, <char style="it">that which is</char></char></note>one that is abominable and corrupt,</para>
 	<para style="q1">A man that drinketh iniquity like water!</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="17" style="v"/>I will show thee, hear thou me;</para>
 	<para style="q1">And that which I have seen I will declare</para>
 	<para style="q1"><verse number="18" style="v"/>(Which wise men have told</para>
@@ -757,7 +757,7 @@
 	<para style="q1"><verse number="35" style="v"/>They conceive mischief, and bring forth iniquity,</para>
 	<para style="q1">And their heart prepareth deceit.</para>
 	<chapter number="16" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>I have heard many such things:</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Wearisome</char></char></note>Miserable comforters are ye all.</para>
@@ -769,7 +769,7 @@
 	<para style="q1">And shake my head at you.</para>
 	<para style="q1"><verse number="5" style="v"/><char style="add">But</char> I would strengthen you with my mouth,</para>
 	<para style="q1">And the solace of my lips would assuage <char style="add">your grief</char>.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>Though I speak, my grief is not assuaged;</para>
 	<para style="q1">And though I forbear, <note caller="-" style="f"><char style="ft">Hebrew <char style="it">what departeth from me?</char></char></note>what am I eased?</para>
 	<para style="q1"><verse number="7" style="v"/>But now he hath made me weary:</para>
@@ -799,7 +799,7 @@
 	<para style="q1">And on my eyelids is the shadow of death;</para>
 	<para style="q1"><verse number="17" style="v"/>Although there is no violence in my hands,</para>
 	<para style="q1">And my prayer is pure.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/>O earth, cover not thou my blood,</para>
 	<para style="q1">And let my cry <note caller="-" style="f"><char style="ft">Or, <char style="it">have no more place</char></char></note>have no <char style="add">resting</char>-place.</para>
 	<para style="q1"><verse number="19" style="v"/>Even now, behold, my witness is in heaven,</para>
@@ -815,14 +815,14 @@
 	<para style="q1">The grave is <char style="add">ready</char> for me.</para>
 	<para style="q1"><verse number="2" style="v"/>Surely there are <note caller="-" style="f"><char style="ft">Hebrew <char style="it">mockery</char>.</char></note>mockers with me,</para>
 	<para style="q1">And mine eye dwelleth upon their provocation.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="3" style="v"/>Give now a pledge, be surety for me with thyself;</para>
 	<para style="q1">Who is there that will strike hands with me?</para>
 	<para style="q1"><verse number="4" style="v"/>For thou hast hid their heart from understanding:</para>
 	<para style="q1">Therefore shalt thou not exalt <char style="add">them</char>.</para>
 	<para style="q1"><verse number="5" style="v"/>He that denounceth his friends for a <note caller="-" style="f"><char style="ft">Hebrew <char style="it">portion</char>.</char></note>prey,</para>
 	<para style="q1">Even the eyes of his children shall fail.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>But he hath made me a byword of the people;</para>
 	<para style="q1">And they spit in my face.</para>
 	<para style="q1"><verse number="7" style="v"/>Mine eye also is dim by reason of sorrow,</para>
@@ -846,7 +846,7 @@
 	<para style="q1"><verse number="16" style="v"/>It shall go down to the bars of Sheol,</para>
 	<para style="q1">When once there is rest in the dust.</para>
 	<chapter number="18" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Bildad the Shuhite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>How long will ye hunt for words?</para>
 	<para style="q1">Consider, and afterwards we will speak.</para>
@@ -855,7 +855,7 @@
 	<para style="q1"><verse number="4" style="v"/>Thou that tearest thyself in thine anger,</para>
 	<para style="q1">Shall the earth be forsaken for thee?</para>
 	<para style="q1">Or shall the rock be removed out of its place?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="5" style="v"/>Yea, the light of the wicked shall be put out,</para>
 	<para style="q1">And the <note caller="-" style="f"><char style="ft">Or, <char style="it">flame</char></char></note>spark of his fire shall not shine.</para>
 	<para style="q1"><verse number="6" style="v"/>The light shall be dark in his tent,</para>
@@ -891,7 +891,7 @@
 	<para style="q1"><verse number="21" style="v"/>Surely such are the dwellings of the unrighteous,</para>
 	<para style="q1">And this is the place of him that knoweth not God.</para>
 	<chapter number="19" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>How long will ye vex my soul,</para>
 	<para style="q1">And break me in pieces with words?</para>
@@ -903,7 +903,7 @@
 	<para style="q1">And plead against me my reproach;</para>
 	<para style="q1"><verse number="6" style="v"/>Know now that God hath <note caller="-" style="f"><char style="ft">Or, <char style="it">overthrown me</char></char></note>subverted me <char style="add">in my cause</char>,</para>
 	<para style="q1">And hath compassed me with his net.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>Behold, I <note caller="-" style="f"><char style="ft">Or, <char style="it">cry out, Violence!</char></char></note>cry out of wrong, but I am not heard:</para>
 	<para style="q1">I cry for help, but there is no justice.</para>
 	<para style="q1"><verse number="8" style="v"/>He hath walled up my way that I cannot pass,</para>
@@ -917,7 +917,7 @@
 	<para style="q1"><verse number="12" style="v"/>His troops come on together,</para>
 	<para style="q1">And cast up their way against me,</para>
 	<para style="q1">And encamp round about my tent.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>He hath put my brethren far from me,</para>
 	<para style="q1">And mine acquaintance are wholly estranged from me.</para>
 	<para style="q1"><verse number="14" style="v"/>My kinsfolk have failed,</para>
@@ -938,7 +938,7 @@
 	<para style="q1">For the hand of God hath touched me.</para>
 	<para style="q1"><verse number="22" style="v"/>Why do ye persecute me as God,</para>
 	<para style="q1">And are not satisfied with my flesh?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="23" style="v"/>Oh that my words were now written!</para>
 	<para style="q1">Oh that they were inscribed in a book!</para>
 	<para style="q1"><verse number="24" style="v"/>That with an iron pen and lead</para>
@@ -956,7 +956,7 @@
 	<para style="q1">For <note caller="-" style="f"><char style="ft">Or, <char style="it">wrathful are</char></char></note>wrath <char style="add">bringeth</char> the punishments of the sword,</para>
 	<para style="q1">That ye may know there is a judgment.</para>
 	<chapter number="20" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Zophar the Naamathite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Therefore do my thoughts give answer to me,</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">And by reason of</char> this <char style="it">my haste is within me</char></char></note>Even by reason of my haste that is in me.</para>
@@ -978,7 +978,7 @@
 	<para style="q1">And his hands shall give back his wealth.</para>
 	<para style="q1"><verse number="11" style="v"/>His bones are full of his youth,</para>
 	<para style="q1">But it shall lie down with him in the dust.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>Though wickedness be sweet in his mouth,</para>
 	<para style="q1">Though he hide it under his tongue,</para>
 	<para style="q1"><verse number="13" style="v"/>Though he spare it, and will not let it go,</para>
@@ -995,7 +995,7 @@
 	<para style="q1">According to the substance <note caller="-" style="f"><char style="ft">Hebrew <char style="it">of his exchange</char>.</char></note>that he hath gotten, he shall not rejoice.</para>
 	<para style="q1"><verse number="19" style="v"/>For he hath oppressed and forsaken the poor;</para>
 	<para style="q1">He hath violently taken away a house, <note caller="-" style="f"><char style="ft">Or, <char style="it">which he builded not</char></char></note>and he shall not build it up.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="20" style="v"/>Because he knew no quietness <note caller="-" style="f"><char style="ft">Or, <char style="it">in his greed</char>. Hebrew <char style="it">in his belly</char>.</char></note>within him,</para>
 	<para style="q1">He shall not save aught of that wherein he delighteth.</para>
 	<para style="q1"><verse number="21" style="v"/>There was nothing left that he devoured not;</para>
@@ -1019,7 +1019,7 @@
 	<para style="q1"><verse number="29" style="v"/>This is the portion of a wicked man from God,</para>
 	<para style="q1">And the heritage appointed unto him by God.</para>
 	<chapter number="21" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Hear diligently my speech;</para>
 	<para style="q1">And let this be your consolations.</para>
@@ -1051,7 +1051,7 @@
 	<para style="q1">And what profit should we have, if we pray unto him?</para>
 	<para style="q1"><verse number="16" style="v"/><note caller="-" style="f"><char style="ft">Or, Ye say, <char style="it">Lo etc.</char></char></note>Lo, their prosperity is not in their hand:</para>
 	<para style="q1">The counsel of the wicked is far from me.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="17" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">How oft is the lamp of the wicked put out, And</char> how oft <char style="it">cometh their calamity upon them!</char> God <char style="it">distributeth sorrows in his anger. They are as stubble&#160;.&#160;.&#160;. away</char>.</char></note>How oft is it that the lamp of the wicked is put out?</para>
 	<para style="q1">That their calamity cometh upon them?</para>
 	<para style="q1">That <char style="add">God</char> distributeth sorrows in his anger?</para>
@@ -1073,7 +1073,7 @@
 	<para style="q1">And never tasteth of good.</para>
 	<para style="q1"><verse number="26" style="v"/>They lie down alike in the dust,</para>
 	<para style="q1">And the worm covereth them.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="27" style="v"/>Behold, I know your thoughts,</para>
 	<para style="q1">And the devices wherewith ye would wrong me.</para>
 	<para style="q1"><verse number="28" style="v"/>For ye say, Where is the house of the prince?</para>
@@ -1092,7 +1092,7 @@
 	<para style="q1"><verse number="34" style="v"/>How then comfort ye me <note caller="-" style="f"><char style="ft">Or, <char style="it">with vanity</char></char></note>in vain,</para>
 	<para style="q1">Seeing in your answers there remaineth <char style="add">only</char> <note caller="-" style="f"><char style="ft">Or, <char style="it">faithlessness</char></char></note>falsehood?</para>
 	<chapter number="22" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Eliphaz the Temanite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Can a man be profitable unto God?</para>
 	<para style="q1">Surely he that is wise is profitable unto himself.</para>
@@ -1114,7 +1114,7 @@
 	<para style="q1">And sudden fear troubleth thee,</para>
 	<para style="q1"><verse number="11" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Or dost thou not see the darkness, And the flood of waters that covereth thee?</char></char></note>Or darkness, so that thou canst not see,</para>
 	<para style="q1">And abundance of waters cover thee.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>Is not God in the height of heaven?</para>
 	<para style="q1">And behold the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">head</char>.</char></note>height of the stars, how high they are!</para>
 	<para style="q1"><verse number="13" style="v"/>And thou sayest, What doth God know?</para>
@@ -1133,7 +1133,7 @@
 	<para style="q1">And the innocent laugh them to scorn,</para>
 	<para style="q1"><verse number="20" style="v"/><char style="add">Saying</char>, Surely they that did rise up against us are cut off,</para>
 	<para style="q1">And <note caller="-" style="f"><char style="ft">Or, <char style="it">that which remained to them</char>. Or, <char style="it">their abundance</char></char></note>the remnant of them the fire hath consumed.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="21" style="v"/>Acquaint now thyself with him, and be at peace:</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, as otherwise read, <char style="it">Thereby shall thine increase be good</char>.</char></note>Thereby good shall come unto thee.</para>
 	<para style="q1"><verse number="22" style="v"/>Receive, I pray thee, <note caller="-" style="f"><char style="ft">Or, <char style="it">instruction</char></char></note>the law from his mouth,</para>
@@ -1155,7 +1155,7 @@
 	<para style="q1"><verse number="30" style="v"/>He will deliver <char style="add">even</char> him that is not innocent:</para>
 	<para style="q1">Yea, he shall be delivered through the cleanness of thy hands.</para>
 	<chapter number="23" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Even to-day is my complaint <note caller="-" style="f"><char style="ft">Or, <char style="it">bitter</char>. Or, accounted <char style="it">rebellion</char></char></note>rebellious:</para>
 	<para style="q1">My stroke is heavier than my groaning.</para>
@@ -1173,13 +1173,13 @@
 	<para style="q1">And backward, but I cannot perceive him;</para>
 	<para style="q1"><verse number="9" style="v"/>On the left hand, when he doth work, but I cannot behold him;</para>
 	<para style="q1">He <note caller="-" style="f"><char style="ft">Or, <char style="it">turneth himself to&#160;.&#160;.&#160;. him, but</char></char></note>hideth himself on the right hand, that I cannot see him.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">For</char></char></note>But he knoweth <note caller="-" style="f"><char style="ft">Hebrew <char style="it">the way</char> that is <char style="it">with me</char>.</char></note>the way that I take;</para>
 	<para style="q1">When he hath tried me, I shall come forth as gold.</para>
 	<para style="q1"><verse number="11" style="v"/>My foot hath held fast to his steps;</para>
 	<para style="q1">His way have I kept, and turned not aside.</para>
 	<para style="q1"><verse number="12" style="v"/>I have not gone back from the commandment of his lips;</para>
-	<para style="q1">I have treasured up the words of his mouth <note caller="-" style="f"><char style="ft">Or, <char style="it">more than my own law</char></char></note>more than my <note caller="-" style="f"><char style="ft">Or, <char style="it">portion</char>. See <char style="xt" br:bibleref="PRO.30.8">Prov. 30:8</char>.</char></note>necessary food.</para>
+	<para style="q1">I have treasured up the words of his mouth <note caller="-" style="f"><char style="ft">Or, <char style="it">more than my own law</char></char></note>more than my <note caller="-" style="f"><char style="ft">Or, <char style="it">portion</char>. See <ref loc="PRO 30:8">Prov. 30:8</ref>.</char></note>necessary food.</para>
 	<para style="q1"><verse number="13" style="v"/>But <note caller="-" style="f"><char style="ft">Or, <char style="it">he is one</char></char></note>he is in one <char style="add">mind</char>, and who can turn him?</para>
 	<para style="q1">And what his soul desireth, even that he doeth.</para>
 	<para style="q1"><verse number="14" style="v"/>For he performeth that which is appointed for me:</para>
@@ -1191,7 +1191,7 @@
 	<para style="q1"><verse number="17" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">For I am not dismayed because of the darkness, Nor because thick darkness covereth my face</char></char></note>Because I was not cut off before the darkness,</para>
 	<para style="q1">Neither did he cover the thick darkness from my face.</para>
 	<chapter number="24" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Why is it, seeing times are not hidden from the Almighty, That they who know him see not his days?</char></char></note>Why are times not laid up by the Almighty?</para>
 	<para style="q1">And why do not they that know him see his days?</para>
 	<para style="q1"><verse number="2" style="v"/>There are that remove the landmarks;</para>
@@ -1218,7 +1218,7 @@
 	<para style="q1"><verse number="12" style="v"/>From out of the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">city of men</char>.</char></note>populous city men groan,</para>
 	<para style="q1">And the soul of the wounded crieth out:</para>
 	<para style="q1">Yet God regardeth not the folly.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>These are of them that rebel against the light;</para>
 	<para style="q1">They know not the ways thereof,</para>
 	<para style="q1">Nor abide in the paths thereof.</para>
@@ -1233,7 +1233,7 @@
 	<para style="q1">They know not the light.</para>
 	<para style="q1"><verse number="17" style="v"/>For <note caller="-" style="f"><char style="ft">Or, <char style="it">thick darkness is to all of them as the morning; For they etc.</char></char></note>the morning is to all of them as thick darkness;</para>
 	<para style="q1">For they know the terrors of the thick darkness.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/><note caller="-" style="f"><char style="ft">Or, Ye say, <char style="it">Swiftly etc.</char> Hebrew <char style="it">Swift is he etc.</char></char></note>Swiftly they <char style="add">pass away</char> upon the face of the waters;</para>
 	<para style="q1">Their portion is cursed in the earth:</para>
 	<para style="q1">They turn not into the way of the vineyards.</para>
@@ -1255,7 +1255,7 @@
 	<para style="q1"><verse number="25" style="v"/>And if it be not so now, who will prove me a liar,</para>
 	<para style="q1">And make my speech nothing worth?</para>
 	<chapter number="25" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then answered Bildad the Shuhite, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Dominion and fear are with him;</para>
 	<para style="q1">He maketh peace in his high places.</para>
@@ -1268,7 +1268,7 @@
 	<para style="q1"><verse number="6" style="v"/>How much less man, that is a worm!</para>
 	<para style="q1">And the son of man, that is a worm!</para>
 	<chapter number="26" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>How hast thou helped him that is without power!</para>
 	<para style="q1">How hast thou saved the arm that hath no strength!</para>
@@ -1276,7 +1276,7 @@
 	<para style="q1">And plentifully declared sound knowledge!</para>
 	<para style="q1"><verse number="4" style="v"/>To whom hast thou uttered words?</para>
 	<para style="q1">And whose <note caller="-" style="f"><char style="ft">Hebrew <char style="it">breath</char>.</char></note>spirit came forth from thee?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="5" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">The shades</char>. Hebrew <char style="it">The Rephaim</char>.</char></note>They that are deceased tremble</para>
 	<para style="q1">Beneath the waters and the inhabitants thereof.</para>
 	<para style="q1"><verse number="6" style="v"/>Sheol is naked before <note caller="-" style="f"><char style="ft">Hebrew <char style="it">him</char>.</char></note><char style="add">God</char>,</para>
@@ -1299,7 +1299,7 @@
 	<para style="q1">And <note caller="-" style="f"><char style="ft">Or, <char style="it">how little a portion</char></char></note>how small a whisper <note caller="-" style="f"><char style="ft">Or, <char style="it">is heard</char></char></note>do we hear of him!</para>
 	<para style="q1">But the thunder of his <note caller="-" style="f"><char style="ft">Or, <char style="it">mighty deeds</char></char></note>power who can understand?</para>
 	<chapter number="27" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>And Job again took up his parable, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>As God liveth, who hath taken away my right,</para>
 	<para style="q1">And the Almighty, who hath <note caller="-" style="f"><char style="ft">Hebrew <char style="it">made my soul bitter</char>.</char></note>vexed my soul</para>
@@ -1313,7 +1313,7 @@
 	<para style="q1">My heart <note caller="-" style="f"><char style="ft">Or, <char style="it">doth not reproach</char> me for <char style="it">any of my days</char></char></note>shall not reproach <char style="add">me</char> so long as I live.</para>
 	<para style="q1"><verse number="7" style="v"/>Let mine enemy be as the wicked,</para>
 	<para style="q1">And let him that riseth up against me be as the unrighteous.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>For what is the hope of the godless, <note caller="-" style="f"><char style="ft">Or, <char style="it">when God cutteth him off, When he taketh etc.</char></char></note>though he get him gain,</para>
 	<para style="q1">When God taketh away his soul?</para>
 	<para style="q1"><verse number="9" style="v"/>Will God hear his cry,</para>
@@ -1324,7 +1324,7 @@
 	<para style="q1">That which is with the Almighty will I not conceal.</para>
 	<para style="q1"><verse number="12" style="v"/>Behold, all ye yourselves have seen it;</para>
 	<para style="q1">Why then are ye become altogether vain?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>This is the portion of a wicked man with God,</para>
 	<para style="q1">And the heritage of oppressors, which they receive from the Almighty:</para>
 	<para style="q1"><verse number="14" style="v"/>If his children be multiplied, it is for the sword;</para>
@@ -1348,7 +1348,7 @@
 	<para style="q1"><verse number="23" style="v"/>Men shall clap their hands at him,</para>
 	<para style="q1">And shall hiss him out of his place.</para>
 	<chapter number="28" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">For</char></char></note>Surely there is a mine for silver,</para>
 	<para style="q1">And a place for gold which they refine.</para>
 	<para style="q1"><verse number="2" style="v"/>Iron is taken out of the <note caller="-" style="f"><char style="ft">Or, <char style="it">dust</char></char></note>earth,</para>
@@ -1373,7 +1373,7 @@
 	<para style="q1">And his eye seeth every precious thing.</para>
 	<para style="q1"><verse number="11" style="v"/>He bindeth the streams <note caller="-" style="f"><char style="ft">Hebrew <char style="it">from weeping</char>.</char></note>that they trickle not;</para>
 	<para style="q1">And the thing that is hid bringeth he forth to light.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>But where shall wisdom be found?</para>
 	<para style="q1">And where is the place of understanding?</para>
 	<para style="q1"><verse number="13" style="v"/>Man knoweth not the price thereof;</para>
@@ -1396,7 +1396,7 @@
 	<para style="q1">And kept close from the birds of the heavens.</para>
 	<para style="q1"><verse number="22" style="v"/><note caller="-" style="f"><char style="ft">Hebrew <char style="it">Abaddon</char>.</char></note>Destruction and Death say,</para>
 	<para style="q1">We have heard a rumor thereof with our ears.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="23" style="v"/>God understandeth the way thereof,</para>
 	<para style="q1">And he knoweth the place thereof.</para>
 	<para style="q1"><verse number="24" style="v"/>For he looketh to the ends of the earth,</para>
@@ -1411,7 +1411,7 @@
 	<para style="q1">Behold, the fear of the Lord, that is wisdom;</para>
 	<para style="q1">And to depart from evil is understanding.</para>
 	<chapter number="29" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>And Job again took up his parable, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Oh that I were as in the months of old,</para>
 	<para style="q1">As in the days when God watched over me;</para>
@@ -1463,7 +1463,7 @@
 	<para style="q1">And dwelt as a king in the army,</para>
 	<para style="q1">As one that comforteth the mourners.</para>
 	<chapter number="30" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>But now they that are younger than I have me in derision,</para>
 	<para style="q1">Whose fathers I disdained to set with the dogs of my flock.</para>
 	<para style="q1"><verse number="2" style="v"/>Yea, the strength of their hands, whereto should it profit me?</para>
@@ -1480,7 +1480,7 @@
 	<para style="q1">Under the <note caller="-" style="f"><char style="ft">Or, <char style="it">wild vetches</char></char></note>nettles they <note caller="-" style="f"><char style="ft">Or, <char style="it">stretch themselves</char></char></note>are gathered together.</para>
 	<para style="q1"><verse number="8" style="v"/><char style="add">They are</char> children of fools, yea, children of <note caller="-" style="f"><char style="ft">Hebrew men of <char style="it">no name</char>.</char></note>base men;</para>
 	<para style="q1">They <note caller="-" style="f"><char style="ft">Or, <char style="it">are outcasts from the land</char></char></note>were scourged out of the land.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="9" style="v"/>And now I am become their song,</para>
 	<para style="q1">Yea, I am a byword unto them.</para>
 	<para style="q1"><verse number="10" style="v"/>They abhor me, they stand aloof from me,</para>
@@ -1498,7 +1498,7 @@
 	<para style="q1"><verse number="15" style="v"/>Terrors are turned upon me;</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Thou chasest</char></char></note>They chase <note caller="-" style="f"><char style="ft">Or, <char style="it">my nobility</char></char></note>mine honor as the wind;</para>
 	<para style="q1">And my welfare is passed away as a cloud.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="16" style="v"/>And now my soul is poured out <note caller="-" style="f"><char style="ft">Hebrew <char style="it">upon</char>.</char></note>within me;</para>
 	<para style="q1">Days of affliction have taken hold upon me.</para>
 	<para style="q1"><verse number="17" style="v"/>In the night season my bones are <note caller="-" style="f"><char style="ft">Or, <char style="it">corroded</char> and drop <char style="it">away from me</char></char></note>pierced <note caller="-" style="f"><char style="ft">Hebrew <char style="it">from off</char>.</char></note>in me,</para>
@@ -1515,7 +1515,7 @@
 	<para style="q1">And thou dissolvest me in the storm.</para>
 	<para style="q1"><verse number="23" style="v"/>For I know that thou wilt bring me to death,</para>
 	<para style="q1">And to <note caller="-" style="f"><char style="ft">Or, <char style="it">the house of meeting for etc.</char></char></note>the house appointed for all living.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="24" style="v"/>Howbeit doth not one stretch out the hand in his fall?</para>
 	<para style="q1">Or in his calamity therefore cry for help?</para>
 	<para style="q1"><verse number="25" style="v"/>Did not I weep for him that was in trouble?</para>
@@ -1533,7 +1533,7 @@
 	<para style="q1"><verse number="31" style="v"/>Therefore is my harp <char style="add">turned</char> to mourning,</para>
 	<para style="q1">And my pipe into the voice of them that weep.</para>
 	<chapter number="31" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>I made a covenant with mine eyes;</para>
 	<para style="q1">How then should I look upon a virgin?</para>
 	<para style="q1"><verse number="2" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">For what portion</char> should I have <char style="it">of God&#160;.&#160;.&#160;. And what heritage etc.? Is there not calamity etc.?</char></char></note>For what is the portion from God above,</para>
@@ -1542,7 +1542,7 @@
 	<para style="q1">And disaster to the workers of iniquity?</para>
 	<para style="q1"><verse number="4" style="v"/>Doth not he see my ways,</para>
 	<para style="q1">And number all my steps?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="5" style="v"/>If I have walked with falsehood,</para>
 	<para style="q1">And my foot hath hasted to deceit</para>
 	<para style="q1"><verse number="6" style="v"/>(Let me be weighed in an even balance,</para>
@@ -1552,14 +1552,14 @@
 	<para style="q1">And if any spot hath cleaved to my hands:</para>
 	<para style="q1"><verse number="8" style="v"/>Then let me sow, and let another eat;</para>
 	<para style="q1">Yea, let <note caller="-" style="f"><char style="ft">Or, <char style="it">my offspring</char>. Hebrew <char style="it">my produce</char>.</char></note>the produce of my field be rooted out.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="9" style="v"/>If my heart hath been enticed unto a woman,</para>
 	<para style="q1">And I have laid wait at my neighbor&#8217;s door;</para>
 	<para style="q1"><verse number="10" style="v"/>Then let my wife grind unto another,</para>
 	<para style="q1">And let others bow down upon her.</para>
 	<para style="q1"><verse number="11" style="v"/>For that were a heinous crime;</para>
 	<para style="q1">Yea, it were an iniquity to be punished by the judges:</para>
-	<para style="q1"><verse number="12" style="v"/>For it is a fire that consumeth unto <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Abaddon</char>. See <char style="xt" br:bibleref="JOB.26.6">26:6</char>.</char></note>Destruction,</para>
+	<para style="q1"><verse number="12" style="v"/>For it is a fire that consumeth unto <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Abaddon</char>. See <ref loc="JOB 26:6">26:6</ref>.</char></note>Destruction,</para>
 	<para style="q1">And would root out all mine increase.</para>
 	<para style="q1"><verse number="13" style="v"/>If I have despised the cause of my man-servant or of my maid-servant,</para>
 	<para style="q1">When they contended with me;</para>
@@ -1567,7 +1567,7 @@
 	<para style="q1">And when he visiteth, what shall I answer him?</para>
 	<para style="q1"><verse number="15" style="v"/>Did not he that made me in the womb make him?</para>
 	<para style="q1">And did not one fashion us in the womb?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="16" style="v"/>If I have withheld <note caller="-" style="f"><char style="ft">Or, <char style="it">aught that the poor desired</char></char></note>the poor from <char style="add">their</char> desire,</para>
 	<para style="q1">Or have caused the eyes of the widow to fail,</para>
 	<para style="q1"><verse number="17" style="v"/>Or have eaten my morsel alone,</para>
@@ -1584,7 +1584,7 @@
 	<para style="q1">And mine arm be broken from the bone.</para>
 	<para style="q1"><verse number="23" style="v"/>For calamity from God is a terror to me,</para>
 	<para style="q1">And by reason of his majesty I can do nothing.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="24" style="v"/>If I have made gold my hope,</para>
 	<para style="q1">And have said to the fine gold, <char style="add">Thou art</char> my confidence;</para>
 	<para style="q1"><verse number="25" style="v"/>If I have rejoiced because my wealth was great,</para>
@@ -1623,7 +1623,7 @@
 	<para style="q1">And <note caller="-" style="f"><char style="ft">Or, <char style="it">noisome weeds</char></char></note>cockle instead of barley.</para>
 	<para style="p">The words of Job are ended.</para>
 	<chapter number="32" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>So these three men ceased to answer Job, because he was righteous in his own eyes. <verse number="2" style="v"/>Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the family of Ram: against Job was his wrath kindled, because he justified himself rather than God. <verse number="3" style="v"/>Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job. <verse number="4" style="v"/>Now Elihu had <note caller="-" style="f"><char style="ft">Hebrew <char style="it">waited for Job with words</char>.</char></note>waited to speak unto Job, because they were elder than he. <verse number="5" style="v"/>And when Elihu saw that there was no answer in the mouth of these three men, his wrath was kindled.</para>
 	<para style="p"><verse number="6" style="v"/>And Elihu the son of Barachel the Buzite answered and said,</para>
 	<para style="q1">I am young, and ye are very old;</para>
@@ -1636,7 +1636,7 @@
 	<para style="q1">Nor the aged that understand justice.</para>
 	<para style="q1"><verse number="10" style="v"/>Therefore I <note caller="-" style="f"><char style="ft">Or, <char style="it">say</char></char></note>said, Hearken to me;</para>
 	<para style="q1">I also will show mine opinion.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="11" style="v"/>Behold, I waited for your words,</para>
 	<para style="q1">I listened for your reasonings,</para>
 	<para style="q1">Whilst ye searched out what to say.</para>
@@ -1647,7 +1647,7 @@
 	<para style="q1">God may vanquish him, not man:</para>
 	<para style="q1"><verse number="14" style="v"/>For he hath not directed his words against me;</para>
 	<para style="q1">Neither will I answer him with your speeches.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="15" style="v"/>They are amazed, they answer no more:</para>
 	<para style="q1">They have not a word to say.</para>
 	<para style="q1"><verse number="16" style="v"/>And shall I wait, because they speak not,</para>
@@ -1665,7 +1665,7 @@
 	<para style="q1"><verse number="22" style="v"/>For I know not to give flattering titles;</para>
 	<para style="q1"><char style="add">Else</char> would my Maker soon take me away.</para>
 	<chapter number="33" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Howbeit, Job, I pray thee, hear my speech,</para>
 	<para style="q1">And hearken to all my words.</para>
 	<para style="q1"><verse number="2" style="v"/>Behold now, I have opened my mouth;</para>
@@ -1680,7 +1680,7 @@
 	<para style="q1">I also am formed out of the clay.</para>
 	<para style="q1"><verse number="7" style="v"/>Behold, my terror shall not make thee afraid,</para>
 	<para style="q1">Neither shall my pressure be heavy upon thee.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Surely thou hast spoken in my hearing,</para>
 	<para style="q1">And I have heard the voice of <char style="add">thy</char> words, <char style="add">saying</char>,</para>
 	<para style="q1"><verse number="9" style="v"/>I am clean, without transgression;</para>
@@ -1691,7 +1691,7 @@
 	<para style="q1">He marketh all my paths.</para>
 	<para style="q1"><verse number="12" style="v"/>Behold, <note caller="-" style="f"><char style="ft">Or, <char style="it">in this thou art not just: I will answer thee; For etc.</char></char></note>I will answer thee, in this thou art not just;</para>
 	<para style="q1">For God is greater than man.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>Why dost thou strive against him,</para>
 	<para style="q1">For that he giveth not account of any of his matters?</para>
 	<para style="q1"><verse number="14" style="v"/>For God speaketh <note caller="-" style="f"><char style="ft">Or, <char style="it">in one way, yea, in two</char></char></note>once,</para>
@@ -1705,7 +1705,7 @@
 	<para style="q1">And hide pride from man;</para>
 	<para style="q1"><verse number="18" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">That he may keep back</char></char></note>He keepeth back his soul from the pit,</para>
 	<para style="q1">And his life from perishing by the <note caller="-" style="f"><char style="ft">Or, <char style="it">weapons</char></char></note>sword.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>He is chastened also with pain upon his bed,</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Another reading is, <char style="it">While all his bones are firm</char>.</char></note>And with continual strife in his bones;</para>
 	<para style="q1"><verse number="20" style="v"/>So that his life abhorreth bread,</para>
@@ -1714,7 +1714,7 @@
 	<para style="q1">And his bones that were not seen stick out.</para>
 	<para style="q1"><verse number="22" style="v"/>Yea, his soul draweth near unto the pit,</para>
 	<para style="q1">And his life to the destroyers.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="23" style="v"/>If there be with him <note caller="-" style="f"><char style="ft">Or, <char style="it">a messenger</char></char></note>an angel,</para>
 	<para style="q1">An interpreter, one <note caller="-" style="f"><char style="ft">Or, <char style="it">of the thousand</char></char></note>among a thousand,</para>
 	<para style="q1">To show unto man <note caller="-" style="f"><char style="ft">Or, <char style="it">his uprightness</char></char></note>what is right for him;</para>
@@ -1731,7 +1731,7 @@
 	<para style="q1">And <note caller="-" style="f"><char style="ft">Or, <char style="it">it was not requited unto me</char>. Or, <char style="it">it was not meet for me</char></char></note>it profited me not:</para>
 	<para style="q1"><verse number="28" style="v"/>He hath redeemed my soul from going into the pit,</para>
 	<para style="q1">And my life shall behold the light.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="29" style="v"/>Lo, all these things doth God work,</para>
 	<para style="q1">Twice, <char style="add">yea</char> thrice, with a man,</para>
 	<para style="q1"><verse number="30" style="v"/>To bring back his soul from the pit,</para>
@@ -1743,7 +1743,7 @@
 	<para style="q1"><verse number="33" style="v"/>If not, hearken thou unto me:</para>
 	<para style="q1">Hold thy peace, and I will teach thee wisdom.</para>
 	<chapter number="34" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Moreover Elihu answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Hear my words, ye wise men;</para>
 	<para style="q1">And give ear unto me, ye that have knowledge.</para>
@@ -1760,8 +1760,8 @@
 	<para style="q1"><verse number="8" style="v"/>Who goeth in company with the workers of iniquity,</para>
 	<para style="q1">And walketh with wicked men?</para>
 	<para style="q1"><verse number="9" style="v"/>For he hath said, It profiteth a man nothing</para>
-	<para style="q1">That he should <note caller="-" style="f"><char style="ft">Or, <char style="it">consent with</char>. See <char style="xt" br:bibleref="PSA.50.18">Ps. 50:18</char>.</char></note>delight himself with God.</para>
-	<para class="b"/>
+	<para style="q1">That he should <note caller="-" style="f"><char style="ft">Or, <char style="it">consent with</char>. See <ref loc="PSA 50:18">Ps. 50:18</ref>.</char></note>delight himself with God.</para>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/>Therefore hearken unto me, ye men of understanding:</para>
 	<para style="q1">Far be it from God, that he should do wickedness,</para>
 	<para style="q1">And from the Almighty, that he should commit iniquity.</para>
@@ -1775,7 +1775,7 @@
 	<para style="q1"><char style="add">If</char> he gather unto himself his spirit and his breath;</para>
 	<para style="q1"><verse number="15" style="v"/>All flesh shall perish together,</para>
 	<para style="q1">And man shall turn again unto dust.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="16" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Only understand</char></char></note>If now <char style="add">thou hast</char> understanding, hear this:</para>
 	<para style="q1">Hearken to the voice of my words.</para>
 	<para style="q1"><verse number="17" style="v"/>Shall even one that hateth justice govern?</para>
@@ -1788,10 +1788,10 @@
 	<para style="q1"><verse number="20" style="v"/>In a moment they die, <note caller="-" style="f"><char style="ft">Or, <char style="it">and at midnight the people etc.</char></char></note>even at midnight;</para>
 	<para style="q1">The people are shaken and pass away,</para>
 	<para style="q1">And the mighty are taken away without hand.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="21" style="v"/>For his eyes are upon the ways of a man,</para>
 	<para style="q1">And he seeth all his goings.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="22" style="v"/>There is no darkness, nor thick gloom,</para>
 	<para style="q1">Where the workers of iniquity may hide themselves.</para>
 	<para style="q1"><verse number="23" style="v"/>For he needeth not further to consider a man,</para>
@@ -1811,7 +1811,7 @@
 	<para style="q1">Alike whether <char style="add">it be done</char> unto a nation, or unto a man:</para>
 	<para style="q1"><verse number="30" style="v"/>That the godless man reign not,</para>
 	<para style="q1">That there be none to ensnare the people.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="31" style="v"/>For hath any said unto God,</para>
 	<para style="q1">I have borne <char style="add">chastisement</char>, <note caller="-" style="f"><char style="ft">Or, <char style="it">though I offend not</char></char></note>I will not offend <char style="add">any more</char>:</para>
 	<para style="q1"><verse number="32" style="v"/>That which I see not teach thou me:</para>
@@ -1829,7 +1829,7 @@
 	<para style="q1">He clappeth his hands among us,</para>
 	<para style="q1">And multiplieth his words against God.</para>
 	<chapter number="35" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Moreover Elihu answered and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Thinkest thou this to be <char style="add">thy</char> right,</para>
 	<para style="q1"><char style="add">Or</char> sayest thou, My righteousness is more than God&#8217;s,</para>
@@ -1845,7 +1845,7 @@
 	<para style="q1">Or what receiveth he of thy hand?</para>
 	<para style="q1"><verse number="8" style="v"/>Thy wickedness <char style="add">may hurt</char> a man as thou art;</para>
 	<para style="q1">And thy righteousness <char style="add">may profit</char> a son of man.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="9" style="v"/>By reason of the multitude of oppressions they cry out;</para>
 	<para style="q1">They cry for help by reason of the arm of the mighty.</para>
 	<para style="q1"><verse number="10" style="v"/>But none saith, Where is God my Maker,</para>
@@ -1863,7 +1863,7 @@
 	<para style="q1"><verse number="16" style="v"/>Therefore doth Job open his mouth in vanity;</para>
 	<para style="q1">He multiplieth words without knowledge.</para>
 	<chapter number="36" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Elihu also proceeded, and said,</para>
 	<para style="q1"><verse number="2" style="v"/><note caller="-" style="f"><char style="ft">Hebrew <char style="it">Wait for</char>.</char></note>Suffer me a little, and I will show thee;</para>
 	<para style="q1">For <note caller="-" style="f"><char style="ft">Hebrew there are <char style="it">yet words for God</char>.</char></note>I have yet somewhat to say on God&#8217;s behalf.</para>
@@ -1892,16 +1892,16 @@
 	<para style="q1"><verse number="13" style="v"/>But they that are godless in heart lay up anger:</para>
 	<para style="q1">They cry not for help when he bindeth them.</para>
 	<para style="q1"><verse number="14" style="v"/><note caller="-" style="f"><char style="ft">Hebrew <char style="it">Their soul dieth</char>.</char></note>They die in youth,</para>
-	<para style="q1">And their life <char style="add">perisheth</char> <note caller="-" style="f"><char style="ft">Or, <char style="it">like</char></char></note>among the <note caller="-" style="f"><char style="ft">Or, <char style="it">sodomites</char>. See <char style="xt" br:bibleref="DEU.23.17">Dt. 23:17</char>.</char></note>unclean.</para>
+	<para style="q1">And their life <char style="add">perisheth</char> <note caller="-" style="f"><char style="ft">Or, <char style="it">like</char></char></note>among the <note caller="-" style="f"><char style="ft">Or, <char style="it">sodomites</char>. See <ref loc="DEU 23:17">Dt. 23:17</ref>.</char></note>unclean.</para>
 	<para style="q1"><verse number="15" style="v"/>He delivereth the afflicted <note caller="-" style="f"><char style="ft">Or, <char style="it">in</char></char></note>by their affliction,</para>
 	<para style="q1">And openeth their ear <note caller="-" style="f"><char style="ft">Or, <char style="it">by adversity</char></char></note>in oppression.</para>
 	<para style="q1"><verse number="16" style="v"/>Yea, he would have allured thee <note caller="-" style="f"><char style="ft">Hebrew <char style="it">out of the mouth of</char>.</char></note>out of distress</para>
 	<para style="q1">Into a broad place, where there is no straitness;</para>
 	<para style="q1">And that which is set on thy table would be full of fatness.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="17" style="v"/>But thou <note caller="-" style="f"><char style="ft">Or, <char style="it">hast filled up</char></char></note>art full of the judgment of the wicked:</para>
 	<para style="q1">Judgment and justice take hold <char style="add">on thee</char>.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Because there is wrath, beware lest thou be led away by thy sufficiency</char></char></note>For let not wrath stir thee up against chastisements;</para>
 	<para style="q1">Neither let the greatness of the ransom turn thee aside.</para>
 	<para style="q1"><verse number="19" style="v"/>Will thy cry avail, <char style="add">that thou be</char> not in distress,</para>
@@ -1914,10 +1914,10 @@
 	<para style="q1">Who is a teacher like unto him?</para>
 	<para style="q1"><verse number="23" style="v"/>Who hath enjoined him his way?</para>
 	<para style="q1">Or who can say, Thou hast wrought unrighteousness?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="24" style="v"/>Remember that thou magnify his work,</para>
 	<para style="q1">Whereof men have sung.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="25" style="v"/>All men have looked thereon;</para>
 	<para style="q1">Man beholdeth it afar off.</para>
 	<para style="q1"><verse number="26" style="v"/>Behold, God is great, and we know him not;</para>
@@ -1937,7 +1937,7 @@
 	<para style="q1"><verse number="33" style="v"/>The noise thereof telleth concerning <note caller="-" style="f"><char style="ft">Or, <char style="it">it</char></char></note>him,</para>
 	<para style="q1">The cattle also concerning <note caller="-" style="f"><char style="ft">Or, him</char></note><char style="add">the storm</char> that cometh up.</para>
 	<chapter number="37" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Yea, at this my heart trembleth,</para>
 	<para style="q1">And is moved out of its place.</para>
 	<para style="q1"><verse number="2" style="v"/>Hear, oh, hear the noise of his voice,</para>
@@ -1967,7 +1967,7 @@
 	<para style="q1">Upon the face of the habitable world,</para>
 	<para style="q1"><verse number="13" style="v"/>Whether it be for correction, or for his <note caller="-" style="f"><char style="ft">Or, <char style="it">earth</char></char></note>land,</para>
 	<para style="q1">Or for lovingkindness, that he cause it to come.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="14" style="v"/>Hearken unto this, O Job:</para>
 	<para style="q1">Stand still, and consider the wondrous works of God.</para>
 	<para style="q1"><verse number="15" style="v"/>Dost thou know how God layeth <char style="add">his charge</char> upon them,</para>
@@ -1982,7 +1982,7 @@
 	<para style="q1"><char style="add">For</char> we cannot set <char style="add">our speech</char> in order by reason of darkness.</para>
 	<para style="q1"><verse number="20" style="v"/>Shall it be told him that I would speak?</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">If a man speak, surely he shall be swallowed up</char></char></note>Or should a man wish that he were swallowed up?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="21" style="v"/>And now men <note caller="-" style="f"><char style="ft">Or, <char style="it">cannot look on the light when it is bright in the skies, When the wind hath passed, and cleared them</char></char></note>see not the light which is bright in the skies;</para>
 	<para style="q1">But the wind passeth, and cleareth them.</para>
 	<para style="q1"><verse number="22" style="v"/>Out of the north cometh <note caller="-" style="f"><char style="ft">Hebrew <char style="it">gold</char>.</char></note>golden splendor:</para>
@@ -1993,7 +1993,7 @@
 	<para style="q1"><verse number="24" style="v"/>Men do therefore fear him:</para>
 	<para style="q1">He regardeth not any that are wise of heart.</para>
 	<chapter number="38" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Jehovah answered Job out of the whirlwind, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Who is this that darkeneth counsel</para>
 	<para style="q1">By words without knowledge?</para>
@@ -2007,7 +2007,7 @@
 	<para style="q1">Or who laid the corner-stone thereof,</para>
 	<para style="q1"><verse number="7" style="v"/>When the morning stars sang together,</para>
 	<para style="q1">And all the sons of God shouted for joy?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Or <char style="add">who</char> shut up the sea with doors,</para>
 	<para style="q1">When it brake forth, <note caller="-" style="f"><char style="ft">Or, and <char style="it">issued</char></char></note><char style="add">as if</char> it had issued out of the womb;</para>
 	<para style="q1"><verse number="9" style="v"/>When I made clouds the garment thereof,</para>
@@ -2016,7 +2016,7 @@
 	<para style="q1">And set bars and doors,</para>
 	<para style="q1"><verse number="11" style="v"/>And said, Hitherto shalt thou come, but no further;</para>
 	<para style="q1">And here shall thy proud waves be stayed?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>Hast thou commanded the morning since thy days <char style="add">began</char>,</para>
 	<para style="q1"><char style="add">And</char> caused the dayspring to know its place;</para>
 	<para style="q1"><verse number="13" style="v"/>That it might take hold of the ends of the earth,</para>
@@ -2025,14 +2025,14 @@
 	<para style="q1">And <char style="add">all things</char> stand forth <note caller="-" style="f"><char style="ft">Or, <char style="it">as</char> in <char style="it">a garment</char></char></note>as a garment:</para>
 	<para style="q1"><verse number="15" style="v"/>And from the wicked their light is withholden,</para>
 	<para style="q1">And the high arm is broken.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="16" style="v"/>Hast thou entered into the springs of the sea?</para>
 	<para style="q1">Or hast thou walked in the <note caller="-" style="f"><char style="ft">Or, <char style="it">search</char></char></note>recesses of the deep?</para>
 	<para style="q1"><verse number="17" style="v"/>Have the gates of death been revealed unto thee?</para>
 	<para style="q1">Or hast thou seen the gates of the shadow of death?</para>
 	<para style="q1"><verse number="18" style="v"/>Hast thou comprehended the earth in its breadth?</para>
 	<para style="q1">Declare, if thou knowest it all.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>Where is the way to the dwelling of light?</para>
 	<para style="q1">And as for darkness, where is the place thereof,</para>
 	<para style="q1"><verse number="20" style="v"/>That thou shouldest take it to the bound thereof,</para>
@@ -2045,7 +2045,7 @@
 	<para style="q1">Against the day of battle and war?</para>
 	<para style="q1"><verse number="24" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Which is the way</char> to the place where <char style="it">the light is etc.</char></char></note>By what way is the light parted,</para>
 	<para style="q1">Or the east wind scattered upon the earth?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="25" style="v"/>Who hath cleft a channel for the waterflood,</para>
 	<para style="q1">Or the way for the lightning of the thunder;</para>
 	<para style="q1"><verse number="26" style="v"/>To cause it to rain on a land where no man is;</para>
@@ -2058,14 +2058,14 @@
 	<para style="q1">And the hoary frost of heaven, who hath <note caller="-" style="f"><char style="ft">Or, <char style="it">given it birth</char></char></note>gendered it?</para>
 	<para style="q1"><verse number="30" style="v"/>The waters <note caller="-" style="f"><char style="ft">Or, <char style="it">are congealed like stone</char></char></note>hide themselves <char style="add">and become</char> like stone,</para>
 	<para style="q1">And the face of the deep <note caller="-" style="f"><char style="ft">Hebrew <char style="it">cohereth</char>.</char></note>is frozen.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="31" style="v"/>Canst thou bind the <note caller="-" style="f"><char style="ft">Or, <char style="it">chain</char> Or, <char style="it">sweet influences</char></char></note>cluster of the Pleiades,</para>
 	<para style="q1">Or loose the bands of Orion?</para>
 	<para style="q1"><verse number="32" style="v"/>Canst thou lead forth <note caller="-" style="f"><char style="ft">Or, <char style="it">the signs of the Zodiac</char></char></note>the Mazzaroth in their season?</para>
 	<para style="q1">Or canst thou guide the Bear with her <note caller="-" style="f"><char style="ft">Hebrew <char style="it">sons</char>.</char></note>train?</para>
 	<para style="q1"><verse number="33" style="v"/>Knowest thou the ordinances of the heavens?</para>
 	<para style="q1">Canst thou establish the dominion thereof in the earth?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="34" style="v"/>Canst thou lift up thy voice to the clouds,</para>
 	<para style="q1">That abundance of waters may cover thee?</para>
 	<para style="q1"><verse number="35" style="v"/>Canst thou send forth lightnings, that they may go,</para>
@@ -2076,7 +2076,7 @@
 	<para style="q1">Or who can <note caller="-" style="f"><char style="ft">Hebrew <char style="it">cause to lie down</char>.</char></note>pour out the bottles of heaven,</para>
 	<para style="q1"><verse number="38" style="v"/>When the dust runneth into a mass,</para>
 	<para style="q1">And the clods cleave fast together?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="39" style="v"/>Canst thou hunt the prey for the lioness,</para>
 	<para style="q1">Or satisfy the appetite of the young lions,</para>
 	<para style="q1"><verse number="40" style="v"/>When they couch in their dens,</para>
@@ -2093,7 +2093,7 @@
 	<para style="q1">They cast out their pains.</para>
 	<para style="q1"><verse number="4" style="v"/>Their young ones become strong, they grow up in the open field;</para>
 	<para style="q1">They go forth, and <note caller="-" style="f"><char style="ft">Or, <char style="it">return not unto them</char></char></note>return not again.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="5" style="v"/>Who hath sent out the wild ass free?</para>
 	<para style="q1">Or who hath loosed the bonds of the swift ass,</para>
 	<para style="q1"><verse number="6" style="v"/>Whose home I have made the wilderness,</para>
@@ -2110,7 +2110,7 @@
 	<para style="q1">Or wilt thou leave to him thy labor?</para>
 	<para style="q1"><verse number="12" style="v"/>Wilt thou confide in him, that he will bring home thy seed,</para>
 	<para style="q1">And gather <char style="add">the grain</char> of thy threshing-floor?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>The wings of the ostrich wave proudly;</para>
 	<para style="q1"><char style="add">But</char> are they the pinions and plumage of <note caller="-" style="f"><char style="ft">Or, <char style="it">a stork</char></char></note>love?</para>
 	<para style="q1"><verse number="14" style="v"/>For she leaveth her eggs on the earth,</para>
@@ -2123,7 +2123,7 @@
 	<para style="q1">Neither hath he imparted to her understanding.</para>
 	<para style="q1"><verse number="18" style="v"/>What time she <note caller="-" style="f"><char style="ft">Or, <char style="it">rouseth herself up to flight</char></char></note>lifteth up herself on high,</para>
 	<para style="q1">She scorneth the horse and his rider.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>Hast thou given the horse <char style="add">his</char> might?</para>
 	<para style="q1">Hast thou clothed his neck with the <note caller="-" style="f"><char style="ft">Hebrew <char style="it">shaking</char>.</char></note>quivering mane?</para>
 	<para style="q1"><verse number="20" style="v"/>Hast thou made him to leap as a locust?</para>
@@ -2139,7 +2139,7 @@
 	<para style="q1"><verse number="25" style="v"/>As oft as the trumpet <char style="add">soundeth</char> he saith, Aha!</para>
 	<para style="q1">And he smelleth the battle afar off,</para>
 	<para style="q1">The thunder of the captains, and the shouting.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="26" style="v"/>Is it by thy wisdom that the hawk soareth,</para>
 	<para style="q1"><char style="add">And</char> stretcheth her wings toward the south?</para>
 	<para style="q1"><verse number="27" style="v"/>Is it at thy command that the eagle mounteth up,</para>
@@ -2151,7 +2151,7 @@
 	<para style="q1"><verse number="30" style="v"/>Her young ones also suck up blood:</para>
 	<para style="q1">And where the slain are, there is she.</para>
 	<chapter number="40" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Moreover Jehovah answered Job, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>Shall he that cavilleth contend with the Almighty?</para>
 	<para style="q1">He that argueth with God, let him answer it.</para>
@@ -2167,7 +2167,7 @@
 	<para style="q1">Wilt thou condemn me, that thou mayest be justified?</para>
 	<para style="q1"><verse number="9" style="v"/>Or hast thou an arm like God?</para>
 	<para style="q1">And canst thou thunder with a voice like him?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/>Deck thyself now with excellency and dignity;</para>
 	<para style="q1">And array thyself with honor and majesty.</para>
 	<para style="q1"><verse number="11" style="v"/>Pour forth the overflowings of thine anger;</para>
@@ -2178,7 +2178,7 @@
 	<para style="q1">Bind their faces in the hidden <char style="add">place</char>.</para>
 	<para style="q1"><verse number="14" style="v"/>Then will I also confess of thee</para>
 	<para style="q1">That thine own right hand can save thee.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="15" style="v"/>Behold now, <note caller="-" style="f"><char style="ft">That is, <char style="it">the hippopotamus</char>.</char></note>behemoth, which I made <note caller="-" style="f"><char style="ft">Hebrew <char style="it">with</char>.</char></note>as well as thee;</para>
 	<para style="q1">He eateth grass as an ox.</para>
 	<para style="q1"><verse number="16" style="v"/>Lo now, his strength is in his loins,</para>
@@ -2187,7 +2187,7 @@
 	<para style="q1">The sinews of his thighs are knit together.</para>
 	<para style="q1"><verse number="18" style="v"/>His bones are <char style="add">as</char> tubes of brass;</para>
 	<para style="q1">His <note caller="-" style="f"><char style="ft">Or, <char style="it">ribs</char></char></note>limbs are like bars of iron.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>He is the chief of the ways of God:</para>
 	<para style="q1">He <char style="add">only</char> that made him giveth him his sword.</para>
 	<para style="q1"><verse number="20" style="v"/>Surely the mountains bring him forth food,</para>
@@ -2201,7 +2201,7 @@
 	<para style="q1"><verse number="24" style="v"/>Shall any take him when he is on the watch,</para>
 	<para style="q1">Or pierce through his nose with a snare?</para>
 	<chapter number="41" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Canst thou draw out <note caller="-" style="f"><char style="ft">That is, <char style="it">the crocodile</char>.</char></note>leviathan with a fishhook?</para>
 	<para style="q1">Or press down his tongue with a cord?</para>
 	<para style="q1"><verse number="2" style="v"/>Canst thou put <note caller="-" style="f"><char style="ft">Hebrew <char style="it">a rope of rushes</char>.</char></note>a rope into his nose?</para>
@@ -2220,12 +2220,12 @@
 	<para style="q1">Remember the battle, and do so no more.</para>
 	<para style="q1"><verse number="9" style="v"/>Behold, the hope of him is in vain:</para>
 	<para style="q1">Will not one be cast down even at the sight of him?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/>None is so fierce that he dare stir him up;</para>
 	<para style="q1">Who then is he that can stand before me?</para>
 	<para style="q1"><verse number="11" style="v"/>Who hath first given unto me, that I should repay him?</para>
 	<para style="q1"><char style="add">Whatsoever is</char> under the whole heaven is mine.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>I will not keep silence concerning his limbs,</para>
 	<para style="q1">Nor his mighty strength, nor his goodly frame.</para>
 	<para style="q1"><verse number="13" style="v"/>Who can <note caller="-" style="f"><char style="ft">Hebrew <char style="it">uncover the face of his garment</char>.</char></note>strip off his outer garment?</para>
@@ -2234,7 +2234,7 @@
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">His teeth are terrible round about</char></char></note>Round about his teeth is terror.</para>
 	<para style="q1"><verse number="15" style="v"/><char style="add">His</char> <note caller="-" style="f"><char style="ft">Or, <char style="it">courses of scales</char>. Hebrew <char style="it">channels of shields</char>.</char></note>strong scales are <char style="add">his</char> pride,</para>
 	<para style="q1">Shut up together <char style="add">as with</char> a close seal.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="16" style="v"/>One is so near to another,</para>
 	<para style="q1">That no air can come between them.</para>
 	<para style="q1"><verse number="17" style="v"/>They are joined one to another;</para>
@@ -2274,7 +2274,7 @@
 	<para style="q1"><verse number="34" style="v"/>He beholdeth everything that is high:</para>
 	<para style="q1">He is king over all the sons of pride.</para>
 	<chapter number="42" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="p"><verse number="1" style="v"/>Then Job answered Jehovah, and said,</para>
 	<para style="q1"><verse number="2" style="v"/>I know that thou canst do all things,</para>
 	<para style="q1">And that no purpose of thine can be restrained.</para>

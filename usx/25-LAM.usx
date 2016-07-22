@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<usx version="2.0" xmlns:br="http://semanticbible.com/bibleref/bibleref-overview.html">
+<usx version="2.0">
 	<book code="LAM" style="id">American Standard Version (1901)</book>
 	<chapter number="1" style="c"/>
 	<para style="q1"><verse number="1" style="v"/>How doth the city sit solitary, that was full of people!</para>
@@ -35,7 +35,7 @@
 	<para style="q1"><verse number="11" style="v"/>All her people sigh, they seek bread;</para>
 	<para style="q1">They have given their pleasant things for food to refresh the soul:</para>
 	<para style="q1">See, O Jehovah, and behold; for I am become abject.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>Is it nothing to you, all ye that pass by?</para>
 	<para style="q1">Behold, and see if there be any sorrow like unto my sorrow, which is brought upon me,</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Whom Jehovah hath afflicted</char></char></note>Wherewith Jehovah hath afflicted <char style="add">me</char> in the day of his fierce anger.</para>
@@ -60,7 +60,7 @@
 	<para style="q1"><verse number="19" style="v"/>I called for my lovers, <char style="add">but</char> they deceived me:</para>
 	<para style="q1">My priests and mine elders gave up the ghost in the city,</para>
 	<para style="q1">While they sought them food to refresh their souls.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="20" style="v"/>Behold, O Jehovah; for I am in distress; my heart is troubled;</para>
 	<para style="q1">My heart is turned within me; for I have grievously rebelled:</para>
 	<para style="q1">Abroad the sword bereaveth, at home there is as death.</para>
@@ -71,7 +71,7 @@
 	<para style="q1">And do unto them, as thou hast done unto me for all my transgressions:</para>
 	<para style="q1">For my sighs are many, and my heart is faint.</para>
 	<chapter number="2" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>How hath the Lord covered the daughter of Zion with a cloud in his anger!</para>
 	<para style="q1">He hath cast down from heaven unto the earth the beauty of Israel,</para>
 	<para style="q1">And hath not remembered his footstool in the day of his anger.</para>
@@ -102,7 +102,7 @@
 	<para style="q1"><verse number="10" style="v"/>The elders of the daughter of Zion sit upon the ground, they keep silence;</para>
 	<para style="q1">They have cast up dust upon their heads; they have girded themselves with sackcloth:</para>
 	<para style="q1">The virgins of Jerusalem hang down their heads to the ground.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="11" style="v"/>Mine eyes do fail with tears, my heart is troubled;</para>
 	<para style="q1">My liver is poured upon the earth, because of the <note caller="-" style="f"><char style="ft">Or, <char style="it">breach</char></char></note>destruction of the daughter of my people,</para>
 	<para style="q1">Because the young children and the sucklings swoon in the streets of the city.</para>
@@ -130,7 +130,7 @@
 	<para style="q1"><verse number="19" style="v"/>Arise, cry out in the night, at the beginning of the watches;</para>
 	<para style="q1">Pour out thy heart like water before the face of the Lord:</para>
 	<para style="q1">Lift up thy hands toward him for the life of thy young children, that faint for hunger at the head of every street.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="20" style="v"/>See, O Jehovah, and behold to whom thou hast done thus!</para>
 	<para style="q1">Shall the women eat their fruit, the children that are dandled in the hands?</para>
 	<para style="q1">Shall the priest and the prophet be slain in the sanctuary of the Lord?</para>
@@ -141,7 +141,7 @@
 	<para style="q1">And there was none that escaped or remained in the day of Jehovah&#8217;s anger:</para>
 	<para style="q1">Those that I have dandled and brought up hath mine enemy consumed.</para>
 	<chapter number="3" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>I am the man that hath seen affliction by the rod of his wrath.</para>
 	<para style="q1"><verse number="2" style="v"/>He hath led me and caused me to walk in darkness, <note caller="-" style="f"><char style="ft">Or, <char style="it">without light</char></char></note>and not in light.</para>
 	<para style="q1"><verse number="3" style="v"/>Surely against me he turneth his hand again and again all the day.</para>
@@ -160,7 +160,7 @@
 	<para style="q1"><verse number="16" style="v"/>He hath also broken my teeth with gravel stones; he hath covered me with ashes.</para>
 	<para style="q1"><verse number="17" style="v"/>And thou hast <note caller="-" style="f"><char style="ft">Or, <char style="it">cast off</char></char></note>removed my soul far off from peace; I forgat prosperity.</para>
 	<para style="q1"><verse number="18" style="v"/>And I said, My strength is perished, and mine expectation from Jehovah.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>Remember mine affliction and my <note caller="-" style="f"><char style="ft">Or, <char style="it">wandering</char>. Or, <char style="it">outcast state</char></char></note>misery, the wormwood and the gall.</para>
 	<para style="q1"><verse number="20" style="v"/>My soul hath them still in remembrance, and is bowed down within me.</para>
 	<para style="q1"><verse number="21" style="v"/>This I recall to my mind; therefore have I hope.</para>
@@ -170,7 +170,7 @@
 	<para style="q1"><verse number="25" style="v"/>Jehovah is good unto them that wait for him, to the soul that seeketh him.</para>
 	<para style="q1"><verse number="26" style="v"/>It is good that a man should hope and quietly wait for the salvation of Jehovah.</para>
 	<para style="q1"><verse number="27" style="v"/>It is good for a man that he bear the yoke in his youth.</para>
-	<para style="q1"><verse number="28" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">He sitteth etc.</char> (so through <char style="xt" br:bibleref="LAM.3.28-LAM.3.30">verses 28&#8211;30</char>)</char></note>Let him sit alone and keep silence, because he hath laid it upon him.</para>
+	<para style="q1"><verse number="28" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">He sitteth etc.</char> (so through <ref loc="LAM 3:28-3:30">verses 28&#8211;30</ref>)</char></note>Let him sit alone and keep silence, because he hath laid it upon him.</para>
 	<para style="q1"><verse number="29" style="v"/>Let him put his mouth in the dust, if so be there may be hope.</para>
 	<para style="q1"><verse number="30" style="v"/>Let him give his cheek to him that smiteth him; let him be filled full with reproach.</para>
 	<para style="q1"><verse number="31" style="v"/>For the Lord will not cast off for ever.</para>
@@ -182,7 +182,7 @@
 	<para style="q1"><verse number="37" style="v"/>Who is he that saith, and it cometh to pass, when the Lord commandeth it not?</para>
 	<para style="q1"><verse number="38" style="v"/>Out of the mouth of the Most High cometh there not evil and good?</para>
 	<para style="q1"><verse number="39" style="v"/>Wherefore doth a living man complain, <note caller="-" style="f"><char style="ft">Or, <char style="it">a man that is in his sins</char></char></note>a man for the punishment of his sins?</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="40" style="v"/>Let us search and try our ways, and turn again to Jehovah.</para>
 	<para style="q1"><verse number="41" style="v"/>Let us lift up our heart with our hands unto God in the heavens.</para>
 	<para style="q1"><verse number="42" style="v"/>We have transgressed and have rebelled; thou hast not pardoned.</para>
@@ -198,7 +198,7 @@
 	<para style="q1"><verse number="52" style="v"/>They have chased me sore like a bird, they that are mine enemies without cause.</para>
 	<para style="q1"><verse number="53" style="v"/>They have cut off my life in the dungeon, and have cast a stone upon me.</para>
 	<para style="q1"><verse number="54" style="v"/>Waters flowed over my head; I said, I am cut off.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="55" style="v"/>I called upon thy name, O Jehovah, out of the lowest dungeon.</para>
 	<para style="q1"><verse number="56" style="v"/>Thou heardest my voice; hide not thine ear at my breathing, at my cry.</para>
 	<para style="q1"><verse number="57" style="v"/>Thou drewest near in the day that I called upon thee; thou saidst, Fear not.</para>
@@ -212,7 +212,7 @@
 	<para style="q1"><verse number="65" style="v"/>Thou wilt give them <note caller="-" style="f"><char style="ft">Or, <char style="it">blindness</char>. Hebrew <char style="it">covering</char>.</char></note>hardness of heart, thy curse unto them.</para>
 	<para style="q1"><verse number="66" style="v"/>Thou wilt pursue them in anger, and destroy them from under the heavens of Jehovah.</para>
 	<chapter number="4" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>How is the gold become dim! <char style="add">how</char> is the most pure gold changed!</para>
 	<para style="q1">The stones of the sanctuary are poured out at the head of every street.</para>
 	<para style="q1"><verse number="2" style="v"/>The precious sons of Zion, <note caller="-" style="f"><char style="ft">Hebrew <char style="it">that may be weighed against</char>.</char></note>comparable to fine gold,</para>
@@ -224,7 +224,7 @@
 	<para style="q1"><verse number="5" style="v"/>They that did feed delicately are desolate in the streets:</para>
 	<para style="q1">They that were brought up in scarlet embrace dunghills.</para>
 	<para style="q1"><verse number="6" style="v"/>For <note caller="-" style="f"><char style="ft">Or, <char style="it">the punishment of the iniquity</char></char></note>the iniquity of the daughter of my people is greater than <note caller="-" style="f"><char style="ft">Or, <char style="it">the punishment of the sin</char></char></note>the sin of Sodom,</para>
-	<para style="q1">That was overthrown as in a moment, and no hands <note caller="-" style="f"><char style="ft">Or, <char style="it">fell</char>. See <char style="xt" br:bibleref="2SA.3.29">2 Sam. 3:29</char>.</char></note>were laid upon her.</para>
+	<para style="q1">That was overthrown as in a moment, and no hands <note caller="-" style="f"><char style="ft">Or, <char style="it">fell</char>. See <ref loc="2SA 3:29">2 Sam. 3:29</ref>.</char></note>were laid upon her.</para>
 	<para style="q1"><verse number="7" style="v"/>Her <note caller="-" style="f"><char style="ft">Or, <char style="it">Nazirites</char></char></note>nobles were purer than snow, they were whiter than milk;</para>
 	<para style="q1">They were more ruddy in body than <note caller="-" style="f"><char style="ft">Or, <char style="it">corals</char></char></note>rubies, their polishing was as of sapphire.</para>
 	<para style="q1"><verse number="8" style="v"/>Their visage is <note caller="-" style="f"><char style="ft">Hebrew <char style="it">darker than blackness</char>.</char></note>blacker than a coal; they are not known in the streets:</para>
@@ -233,7 +233,7 @@
 	<para style="q1">For these <note caller="-" style="f"><char style="ft">Hebrew <char style="it">flow away</char>.</char></note>pine away, stricken through, for want of the fruits of the field.</para>
 	<para style="q1"><verse number="10" style="v"/>The hands of the pitiful women have boiled their own children;</para>
 	<para style="q1">They were their food in the destruction of the daughter of my people.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="11" style="v"/>Jehovah hath accomplished his wrath, he hath poured out his fierce anger;</para>
 	<para style="q1">And he hath kindled a fire in Zion, which hath devoured the foundations thereof.</para>
 	<para style="q1"><verse number="12" style="v"/>The kings of the earth believed not, neither all the inhabitants of the world,</para>
@@ -246,7 +246,7 @@
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Yea</char></char></note>When they fled away and wandered, men said among the nations, They shall no more sojourn <char style="add">here</char>.</para>
 	<para style="q1"><verse number="16" style="v"/>The <note caller="-" style="f"><char style="ft">Hebrew <char style="it">face</char>.</char></note>anger of Jehovah hath scattered them; he will no more regard them:</para>
 	<para style="q1">They respected not the persons of the priests, they favored not the elders.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="17" style="v"/>Our eyes do yet fail <char style="add">in looking</char> for our vain help:</para>
 	<para style="q1">In our watching we have watched for a nation that could not save.</para>
 	<para style="q1"><verse number="18" style="v"/>They hunt our steps, so that we cannot go in our streets:</para>
@@ -255,13 +255,13 @@
 	<para style="q1">They chased us upon the mountains, they laid wait for us in the wilderness.</para>
 	<para style="q1"><verse number="20" style="v"/>The breath of our nostrils, the anointed of Jehovah, was taken in their pits;</para>
 	<para style="q1">Of whom we said, Under his shadow we shall live among the nations.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="21" style="v"/>Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz:</para>
 	<para style="q1">The cup shall pass through unto thee also; thou shalt be drunken, and shalt make thyself naked.</para>
 	<para style="q1"><verse number="22" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Thine iniquity hath an end</char></char></note>The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity:</para>
 	<para style="q1">He will visit thine iniquity, O daughter of Edom; he will uncover thy sins.</para>
 	<chapter number="5" style="c"/>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="1" style="v"/>Remember, O Jehovah, what is come upon us:</para>
 	<para style="q1">Behold, and see our reproach.</para>
 	<para style="q1"><verse number="2" style="v"/>Our inheritance is turned unto strangers,</para>
@@ -298,7 +298,7 @@
 	<para style="q1">For these things our eyes are dim;</para>
 	<para style="q1"><verse number="18" style="v"/>For the mountain of Zion, which is desolate:</para>
 	<para style="q1">The <note caller="-" style="f"><char style="ft">Or, <char style="it">jackals</char></char></note>foxes walk upon it.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>Thou, O Jehovah, <note caller="-" style="f"><char style="ft">Or, <char style="it">sittest</char> as King</char></note>abidest for ever;</para>
 	<para style="q1">Thy throne is from generation to generation.</para>
 	<para style="q1"><verse number="20" style="v"/>Wherefore dost thou forget us for ever,</para>

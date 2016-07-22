@@ -18,8 +18,6 @@ Footnotes contain the following changes from the original:
 
 The files are in [USX](https://www.thedigitalbiblelibrary.org/static/docs/usx/index.html) format, which is an XML derivative of the [USFM](http://paratext.org/about/usfm) format preferred by [United Bible Societies](https://www.unitedbiblesocieties.org/).
 
-USX doesn't presently allow structured representation of Bible references in footnotes; such references are tagged with a namespaced `br:bibleref` attribute as part of a `<char style="xt">...</char>` tag.
-
 ## Corrections
 
 Corrections are welcome. If you've found an error, please compare your correction to scans of the [original print edition](https://archive.org/details/holybible00newy), which is what I aim to reproduce.

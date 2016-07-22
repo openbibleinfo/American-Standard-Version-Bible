@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<usx version="2.0" xmlns:br="http://semanticbible.com/bibleref/bibleref-overview.html">
+<usx version="2.0">
 	<book code="PSA" style="id">American Standard Version (1901)</book>
 	<chapter number="1" style="c"/>
 	<para style="ms1">Book I</para>
@@ -41,7 +41,7 @@
 	<para style="q1">And the uttermost parts of the earth for thy possession.</para>
 	<para style="q1"><verse number="9" style="v"/>Thou shalt break them with a rod of iron;</para>
 	<para style="q1">Thou shalt dash them in pieces like a potter&#8217;s vessel.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/>Now therefore be wise, O ye kings:</para>
 	<para style="q1">Be instructed, ye judges of the earth.</para>
 	<para style="q1"><verse number="11" style="v"/>Serve Jehovah with fear,</para>
@@ -455,7 +455,7 @@
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">let me</char></char></note>I shall be satisfied, when I awake, with <char style="add">beholding</char> thy form.</para>
 	<chapter number="18" style="c"/>
 	<para style="s1">Jehovah praised for giving victory and dominion.</para>
-	<para style="d">For the Chief Musician. <char style="add">A Psalm</char> of David the servant of Jehovah, <note caller="-" style="f"><char style="ft">See <char style="xt" br:bibleref="2SA.22">2 Sam. 22:1&#8211;51</char>.</char></note>who spake unto Jehovah the words of this song in the day that Jehovah delivered him from the hand of all his enemies, and from the hand of Saul: and he said,</para>
+	<para style="d">For the Chief Musician. <char style="add">A Psalm</char> of David the servant of Jehovah, <note caller="-" style="f"><char style="ft">See <ref loc="2SA 22">2 Sam. 22:1&#8211;51</ref>.</char></note>who spake unto Jehovah the words of this song in the day that Jehovah delivered him from the hand of all his enemies, and from the hand of Saul: and he said,</para>
 	<para style="q1"><verse number="1" style="v"/>I love thee, O Jehovah, my strength.</para>
 	<para style="q1"><verse number="2" style="v"/>Jehovah is my rock, and my fortress, and my deliverer;</para>
 	<para style="q1">My God, my rock, in whom I will take refuge;</para>
@@ -585,7 +585,7 @@
 	<para style="q1"><verse number="6" style="v"/>His going forth is from the end of the heavens,</para>
 	<para style="q1">And his circuit unto the ends of it;</para>
 	<para style="q1">And there is nothing hid from the heat thereof.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>The law of Jehovah is perfect, restoring the soul:</para>
 	<para style="q1">The testimony of Jehovah is sure, making wise the simple.</para>
 	<para style="q1"><verse number="8" style="v"/>The precepts of Jehovah are right, rejoicing the heart:</para>
@@ -641,7 +641,7 @@
 	<para style="q1">Even length of days for ever and ever.</para>
 	<para style="q1"><verse number="5" style="v"/>His glory is great in thy salvation:</para>
 	<para style="q1">Honor and majesty dost thou lay upon him.</para>
-	<para style="q1"><verse number="6" style="v"/>For thou <note caller="-" style="f"><char style="ft">Hebrew <char style="it">settest him to be blessings</char>. See <char style="xt" br:bibleref="GEN.12.2">Gen. 12:2</char>.</char></note>makest him most blessed for ever:</para>
+	<para style="q1"><verse number="6" style="v"/>For thou <note caller="-" style="f"><char style="ft">Hebrew <char style="it">settest him to be blessings</char>. See <ref loc="GEN 12:2">Gen. 12:2</ref>.</char></note>makest him most blessed for ever:</para>
 	<para style="q1">Thou makest him glad with joy in thy presence.</para>
 	<para style="q1"><verse number="7" style="v"/>For the king trusteth in Jehovah;</para>
 	<para style="q1">And through the lovingkindness of the Most High he shall not be moved.</para>
@@ -707,7 +707,7 @@
 	<para style="q1">My <note caller="-" style="f"><char style="ft">Or, <char style="it">dear</char> life. Hebrew <char style="it">only one</char>.</char></note>darling from the power of the dog.</para>
 	<para style="q1"><verse number="21" style="v"/>Save me from the lion&#8217;s mouth;</para>
 	<para style="q1">Yea, from the horns of the wild-oxen thou hast answered me.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="22" style="v"/>I will declare thy name unto my brethren:</para>
 	<para style="q1">In the midst of the assembly will I praise thee.</para>
 	<para style="q1"><verse number="23" style="v"/>Ye that fear Jehovah, praise him;</para>
@@ -764,7 +764,7 @@
 	<para style="q1">And righteousness from the God of his salvation.</para>
 	<para style="q1"><verse number="6" style="v"/>This is the generation of them that seek after him,</para>
 	<para style="q1">That seek thy face, <char style="add">even</char> Jacob. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>Lift up your heads, O ye gates;</para>
 	<para style="q1">And be ye lifted up, ye <note caller="-" style="f"><char style="ft">Or, <char style="it">ancient</char></char></note>everlasting doors:</para>
 	<para style="q1">And the King of glory will come in.</para>
@@ -876,7 +876,7 @@
 	<para style="q1"><verse number="6" style="v"/>And now shall my head be lifted up above mine enemies round about me;</para>
 	<para style="q1">And I will offer in his <note caller="-" style="f"><char style="ft">Hebrew <char style="it">tent</char>.</char></note>tabernacle sacrifices of <note caller="-" style="f"><char style="ft">Or, <char style="it">shouting</char>. Or, <char style="it">trumpet-sound</char></char></note>joy;</para>
 	<para style="q1">I will sing, yea, I will sing praises unto Jehovah.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>Hear, O Jehovah, when I cry with my voice:</para>
 	<para style="q1">Have mercy also upon me, and answer me.</para>
 	<para style="q1"><verse number="8" style="v"/><char style="add">When thou saidst</char>, Seek ye my face; my heart said unto thee,</para>
@@ -917,7 +917,7 @@
 	<para style="q1"><verse number="5" style="v"/>Because they regard not the works of Jehovah,</para>
 	<para style="q1">Nor the operation of his hands,</para>
 	<para style="q1">He will break them down and not build them up.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>Blessed be Jehovah,</para>
 	<para style="q1">Because he hath heard the voice of my supplications.</para>
 	<para style="q1"><verse number="7" style="v"/>Jehovah is my strength and my shield;</para>
@@ -931,11 +931,11 @@
 	<chapter number="29" style="c"/>
 	<para style="s1">The voice of Jehovah in the storm.</para>
 	<para style="d">A Psalm of David.</para>
-	<para style="q1"><verse number="1" style="v"/>Ascribe unto Jehovah, O ye <note caller="-" style="f"><char style="ft">Or, <char style="it">sons of God</char></char></note>sons of the <note caller="-" style="f"><char style="ft">Or, <char style="it">gods</char>. See <char style="xt" br:bibleref="EXO.15.11">Ex. 15:11</char>.</char></note>mighty,</para>
+	<para style="q1"><verse number="1" style="v"/>Ascribe unto Jehovah, O ye <note caller="-" style="f"><char style="ft">Or, <char style="it">sons of God</char></char></note>sons of the <note caller="-" style="f"><char style="ft">Or, <char style="it">gods</char>. See <ref loc="EXO 15:11">Ex. 15:11</ref>.</char></note>mighty,</para>
 	<para style="q1">Ascribe unto Jehovah glory and strength.</para>
 	<para style="q1"><verse number="2" style="v"/>Ascribe unto Jehovah the glory due unto his name;</para>
 	<para style="q1">Worship Jehovah <note caller="-" style="f"><char style="ft">Or, <char style="it">in the beauty of holiness</char></char></note>in holy array.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="3" style="v"/>The voice of Jehovah is upon the waters:</para>
 	<para style="q1">The God of glory thundereth,</para>
 	<para style="q1">Even Jehovah upon <note caller="-" style="f"><char style="ft">Or, <char style="it">great</char></char></note>many waters.</para>
@@ -951,7 +951,7 @@
 	<para style="q1"><verse number="9" style="v"/>The voice of Jehovah maketh the hinds to calve,</para>
 	<para style="q1">And strippeth the forests bare:</para>
 	<para style="q1">And in his temple everything saith, Glory.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/>Jehovah sat <char style="add">as King</char> at the Flood;</para>
 	<para style="q1">Yea, Jehovah sitteth as King for ever.</para>
 	<para style="q1"><verse number="11" style="v"/>Jehovah will give strength unto his people;</para>
@@ -1127,7 +1127,7 @@
 	<para style="q1">According as we <note caller="-" style="f"><char style="ft">Or, <char style="it">wait for</char></char></note>have hoped in thee.</para>
 	<chapter number="34" style="c"/>
 	<para style="s1">Jehovah a provider and deliverer.</para>
-	<para style="d"><char style="add">A Psalm</char> of David; <note caller="-" style="f"><char style="ft">See <char style="xt" br:bibleref="1SA.21.10-1SA.21.15">1 Sam. 21:10&#8211;15</char>.</char></note>when he <note caller="-" style="f"><char style="ft">Or, <char style="it">feigned madness</char></char></note>changed his behavior before Abimelech, who drove him away, and he departed.</para>
+	<para style="d"><char style="add">A Psalm</char> of David; <note caller="-" style="f"><char style="ft">See <ref loc="1SA 21:10-21:15">1 Sam. 21:10&#8211;15</ref>.</char></note>when he <note caller="-" style="f"><char style="ft">Or, <char style="it">feigned madness</char></char></note>changed his behavior before Abimelech, who drove him away, and he departed.</para>
 	<para style="q1"><verse number="1" style="v"/>I will bless Jehovah at all times:</para>
 	<para style="q1">His praise shall continually be in my mouth.</para>
 	<para style="q1"><verse number="2" style="v"/>My soul shall make her boast in Jehovah:</para>
@@ -1197,7 +1197,7 @@
 	<para style="q1"><verse number="10" style="v"/>All my bones shall say, Jehovah, who is like unto thee,</para>
 	<para style="q1">Who deliverest the poor from him that is too strong for him,</para>
 	<para style="q1">Yea, the poor and the needy from him that robbeth him?</para>
-	<para style="q1"><verse number="11" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Malicious</char>. See <char style="xt" br:bibleref="EXO.23.1">Ex. 23:1</char>.</char></note>Unrighteous witnesses rise up;</para>
+	<para style="q1"><verse number="11" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Malicious</char>. See <ref loc="EXO 23:1">Ex. 23:1</ref>.</char></note>Unrighteous witnesses rise up;</para>
 	<para style="q1">They ask me of things that I know not.</para>
 	<para style="q1"><verse number="12" style="v"/>They reward me evil for good,</para>
 	<para style="q1"><char style="add">To</char> the bereaving of my soul.</para>
@@ -1249,7 +1249,7 @@
 	<para style="q1"><verse number="4" style="v"/>He deviseth iniquity upon his bed;</para>
 	<para style="q1">He setteth himself in a way that is not good;</para>
 	<para style="q1">He abhorreth not evil.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="5" style="v"/>Thy lovingkindness, O Jehovah, is in the heavens;</para>
 	<para style="q1">Thy faithfulness <char style="add">reacheth</char> unto the skies.</para>
 	<para style="q1"><verse number="6" style="v"/>Thy righteousness is like the mountains of God;</para>
@@ -1288,7 +1288,7 @@
 	<para style="q1"><verse number="8" style="v"/>Cease from anger, and forsake wrath:</para>
 	<para style="q1">Fret not thyself, <char style="add">it tendeth</char> only to evil-doing.</para>
 	<para style="q1"><verse number="9" style="v"/>For evil-doers shall be cut off;</para>
-	<para style="q1">But those that wait for Jehovah, they shall inherit <note caller="-" style="f"><char style="ft">Or, <char style="it">the earth</char> (and so in verses <char style="xt" br:bibleref="PSA.37.11">11</char>, <char style="xt" br:bibleref="PSA.37.22">22</char>, <char style="xt" br:bibleref="PSA.37.29">29</char>, <char style="xt" br:bibleref="PSA.37.34">34</char>)</char></note>the land.</para>
+	<para style="q1">But those that wait for Jehovah, they shall inherit <note caller="-" style="f"><char style="ft">Or, <char style="it">the earth</char> (and so in verses <ref loc="PSA 37:11">11</ref>, <ref loc="PSA 37:22">22</ref>, <ref loc="PSA 37:29">29</ref>, <ref loc="PSA 37:34">34</ref>)</char></note>the land.</para>
 	<para style="q1"><verse number="10" style="v"/>For yet a little while, and the wicked shall not be:</para>
 	<para style="q1">Yea, thou shalt diligently consider his place, and <note caller="-" style="f"><char style="ft">Or, <char style="it">it</char></char></note>he shall not be.</para>
 	<para style="q1"><verse number="11" style="v"/>But the meek shall inherit the land,</para>
@@ -1408,7 +1408,7 @@
 	<para style="q1">O Lord, my salvation.</para>
 	<chapter number="39" style="c"/>
 	<para style="s1">The vanity of life.</para>
-	<para style="d">For the Chief Musician, for <note caller="-" style="f"><char style="ft"><char style="xt" br:bibleref="PSA.62.1">62:title</char>; <char style="xt" br:bibleref="PSA.77.1">77:title</char>; <char style="xt" br:bibleref="1CH.16.41">1 Chr. 16:41</char>; <char style="xt" br:bibleref="1CH.25.1">25:1</char>.</char></note>Jeduthun. A Psalm of David.</para>
+	<para style="d">For the Chief Musician, for <note caller="-" style="f"><char style="ft"><ref loc="PSA 62:1">62:title</ref>; <ref loc="PSA 77:1">77:title</ref>; <ref loc="1CH 16:41">1 Chr. 16:41</ref>; <ref loc="1CH 25:1">25:1</ref>.</char></note>Jeduthun. A Psalm of David.</para>
 	<para style="q1"><verse number="1" style="v"/>I said, I will take heed to my ways,</para>
 	<para style="q1">That I sin not with my tongue:</para>
 	<para style="q1">I will keep <note caller="-" style="f"><char style="ft">Hebrew <char style="it">a bridle</char> (or <char style="it">muzzle</char>) <char style="it">for my mouth</char>.</char></note>my mouth with a bridle,</para>
@@ -1525,7 +1525,7 @@
 	<para style="q1">Because mine enemy doth not triumph over me.</para>
 	<para style="q1"><verse number="12" style="v"/>And as for me, thou upholdest me in mine integrity,</para>
 	<para style="q1">And settest me before thy face for ever.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>Blessed be Jehovah, the God of Israel,</para>
 	<para style="q1">From everlasting and to everlasting.</para>
 	<para style="q1">Amen, and Amen.</para>
@@ -1546,7 +1546,7 @@
 	<para style="q1">And <char style="add">why</char> art thou disquieted within me?</para>
 	<para style="q1">Hope thou in God; for I shall yet praise him</para>
 	<para style="q1"><char style="add">For</char> the help of his countenance.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>O my God, my soul is cast down within me:</para>
 	<para style="q1">Therefore do I remember thee from the land of the Jordan,</para>
 	<para style="q1">And the Hermons, from <note caller="-" style="f"><char style="ft">Or, <char style="it">the little mountain</char></char></note>the hill Mizar.</para>
@@ -1604,7 +1604,7 @@
 	<para style="q1">And hast put them to shame that hate us.</para>
 	<para style="q1"><verse number="8" style="v"/>In God have we made our boast all the day long,</para>
 	<para style="q1">And we will give thanks unto thy name for ever. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="9" style="v"/>But now thou hast cast <char style="add">us</char> off, and brought us to dishonor,</para>
 	<para style="q1">And goest not forth with our hosts.</para>
 	<para style="q1"><verse number="10" style="v"/>Thou makest us to turn back from the adversary;</para>
@@ -1693,7 +1693,7 @@
 	<para style="q1">And though the mountains be shaken into the heart of the seas;</para>
 	<para style="q1"><verse number="3" style="v"/>Though the waters thereof roar and be troubled,</para>
 	<para style="q1">Though the mountains tremble with the <note caller="-" style="f"><char style="ft">Or, <char style="it">pride</char></char></note>swelling thereof. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="4" style="v"/>There is a river, the streams whereof make glad the city of God,</para>
 	<para style="q1">The holy place of the tabernacles of the Most High.</para>
 	<para style="q1"><verse number="5" style="v"/>God is in the midst of her; she shall not be moved:</para>
@@ -1702,7 +1702,7 @@
 	<para style="q1">He uttered his voice, the earth melted.</para>
 	<para style="q1"><verse number="7" style="v"/>Jehovah of hosts is with us;</para>
 	<para style="q1">The God of Jacob is our <note caller="-" style="f"><char style="ft">Or, <char style="it">high tower</char></char></note>refuge. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Come, behold the works of Jehovah,</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Who hath made desolation etc.</char></char></note>What desolations he hath made in the earth.</para>
 	<para style="q1"><verse number="9" style="v"/>He maketh wars to cease unto the end of the earth;</para>
@@ -1799,7 +1799,7 @@
 	<para style="q1">They call their lands after their own names.</para>
 	<para style="q1"><verse number="12" style="v"/>But man <char style="add">being</char> in honor abideth not:</para>
 	<para style="q1">He is like the beasts that perish.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="13" style="v"/>This <note caller="-" style="f"><char style="ft">Or, <char style="it">is the way of them that are foolish</char></char></note>their way is <note caller="-" style="f"><char style="ft">Or, <char style="it">their confidence: and after etc.</char></char></note>their folly:</para>
 	<para style="q1">Yet after them men approve their sayings. <char style="qs">Selah</char></para>
 	<para style="q1"><verse number="14" style="v"/>They are appointed as a flock for Sheol;</para>
@@ -1854,7 +1854,7 @@
 	<para style="q1">And pay thy vows unto the Most High;</para>
 	<para style="q1"><verse number="15" style="v"/>And call upon me in the day of trouble:</para>
 	<para style="q1">I will deliver thee, and thou shalt glorify me.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="16" style="v"/>But unto the wicked God saith,</para>
 	<para style="q1">What hast thou to do to declare my statutes,</para>
 	<para style="q1">And that thou hast taken my covenant in thy mouth,</para>
@@ -1869,7 +1869,7 @@
 	<para style="q1"><verse number="21" style="v"/>These things hast thou done, and I kept silence;</para>
 	<para style="q1">Thou thoughtest that I was altogether such a one as thyself:</para>
 	<para style="q1"><char style="add">But</char> I will reprove thee, and set <char style="add">them</char> in order before thine eyes.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="22" style="v"/>Now consider this, ye that forget God,</para>
 	<para style="q1">Lest I tear you in pieces, and there be none to deliver:</para>
 	<para style="q1"><verse number="23" style="v"/>Whoso offereth the sacrifice of thanksgiving glorifieth me;</para>
@@ -1914,7 +1914,7 @@
 	<para style="q1">Thou hast no pleasure in burnt-offering.</para>
 	<para style="q1"><verse number="17" style="v"/>The sacrifices of God are a broken spirit:</para>
 	<para style="q1">A broken and a contrite heart, O God, thou wilt not despise.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/>Do good in thy good pleasure unto Zion:</para>
 	<para style="q1">Build thou the walls of Jerusalem.</para>
 	<para style="q1"><verse number="19" style="v"/>Then wilt thou delight in the sacrifices of righteousness,</para>
@@ -2092,7 +2092,7 @@
 	<para style="q1">And their tongue a sharp sword.</para>
 	<para style="q1"><verse number="5" style="v"/>Be thou exalted, O God, above the heavens;</para>
 	<para style="q1"><char style="add">Let</char> thy glory <char style="add">be</char> above all the earth.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>They have prepared a net for my steps;</para>
 	<para style="q1">My soul is bowed down:</para>
 	<para style="q1">They have digged a pit before me;</para>
@@ -2188,7 +2188,7 @@
 	<para style="q1">Thou hast made us to drink the wine of staggering.</para>
 	<para style="q1"><verse number="4" style="v"/>Thou hast given a banner to them that fear thee,</para>
 	<para style="q1">That it may be displayed because of the truth. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="5" style="v"/>That thy beloved may be delivered,</para>
 	<para style="q1">Save with thy right hand, and answer <note caller="-" style="f"><char style="ft">Another reading is, <char style="it">me</char>.</char></note>us.</para>
 	<para style="q1"><verse number="6" style="v"/>God hath spoken in his holiness: I will exult;</para>
@@ -2420,7 +2420,7 @@
 	<chapter number="68" style="c"/>
 	<para style="s1">Jehovah the God of Sinai and of the sanctuary.</para>
 	<para style="d">For the Chief Musician; A Psalm of David, a Song.</para>
-	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">God ariseth</char>; and so throughout verses <char style="xt" br:bibleref="PSA.68.1">1</char>, <char style="xt" br:bibleref="PSA.68.2">2</char>, <char style="xt" br:bibleref="PSA.68.3">3</char></char></note><verse number="1" style="v"/>Let God arise, let his enemies be scattered;</para>
+	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">God ariseth</char>; and so throughout verses <ref loc="PSA 68:1">1</ref>, <ref loc="PSA 68:2">2</ref>, <ref loc="PSA 68:3">3</ref></char></note><verse number="1" style="v"/>Let God arise, let his enemies be scattered;</para>
 	<para style="q1">Let them also that hate him flee before him.</para>
 	<para style="q1"><verse number="2" style="v"/>As smoke is driven away, so drive them away:</para>
 	<para style="q1">As wax melteth before the fire,</para>
@@ -2435,7 +2435,7 @@
 	<para style="q1"><verse number="6" style="v"/>God <note caller="-" style="f"><char style="ft">Hebrew <char style="it">maketh the solitary to dwell in a house</char>.</char></note>setteth the solitary in families:</para>
 	<para style="q1">He bringeth out the prisoners into prosperity;</para>
 	<para style="q1">But the rebellious dwell in a parched land.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="7" style="v"/>O God, when thou wentest forth before thy people,</para>
 	<para style="q1">When thou didst march through the wilderness; <char style="qs">Selah</char></para>
 	<para style="q1"><verse number="8" style="v"/>The earth trembled,</para>
@@ -2464,7 +2464,7 @@
 	<para style="q1"><verse number="18" style="v"/>Thou hast ascended on high, thou hast led away captives;</para>
 	<para style="q1">Thou hast received gifts among men,</para>
 	<para style="q1">Yea, <char style="add">among</char> the rebellious also, that <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Jah</char>.</char></note>Jehovah God might <note caller="-" style="f"><char style="ft">Or, <char style="it">dwell</char> there</char></note>dwell <char style="add">with them</char>.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>Blessed be <note caller="-" style="f"><char style="ft">Or, <char style="it">the Lord day by day: if one oppresseth us, God is our salvation</char></char></note>the Lord, who daily beareth our burden,</para>
 	<para style="q1">Even the God who is our salvation. <char style="qs">Selah</char></para>
 	<para style="q1"><verse number="20" style="v"/>God is unto us a God of deliverances;</para>
@@ -2484,7 +2484,7 @@
 	<para style="q1"><verse number="27" style="v"/>There is little Benjamin their ruler,</para>
 	<para style="q1">The princes of Judah <char style="add">and</char> their <note caller="-" style="f"><char style="ft">Or, <char style="it">company</char></char></note>council,</para>
 	<para style="q1">The princes of Zebulun, the princes of Naphtali.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="28" style="v"/>Thy God hath commanded thy strength:</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Be strong, O God, thou that hast etc.</char></char></note>Strengthen, O God, that which thou <note caller="-" style="f"><char style="ft">Or, <char style="it">hast wrought for us out of thy temple. Unto Jerusalem etc.</char></char></note>hast wrought for us.</para>
 	<para style="q1"><verse number="29" style="v"/>Because of thy temple at Jerusalem</para>
@@ -2701,13 +2701,13 @@
 	<para style="q1">His name shall <note caller="-" style="f"><char style="ft">Or, <char style="it">have issue</char></char></note>be continued <note caller="-" style="f"><char style="ft">Hebrew <char style="it">before the sun</char>.</char></note>as long as the sun:</para>
 	<para style="q1">And men shall <note caller="-" style="f"><char style="ft">Or, <char style="it">bless themselves</char></char></note>be blessed in him;</para>
 	<para style="q1">All nations shall call him happy.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="18" style="v"/>Blessed be Jehovah God, the God of Israel,</para>
 	<para style="q1">Who only doeth wondrous things:</para>
 	<para style="q1"><verse number="19" style="v"/>And blessed be his glorious name for ever;</para>
 	<para style="q1">And let the whole earth be filled with his glory.</para>
 	<para style="q1">Amen, and Amen.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="20" style="v"/>The prayers of David the son of Jesse are ended.</para>
 	<chapter number="73" style="c"/>
 	<para style="ms1">Book III</para>
@@ -2797,7 +2797,7 @@
 	<para style="q1">Shall the enemy blaspheme thy name for ever?</para>
 	<para style="q1"><verse number="11" style="v"/>Why drawest thou back thy hand, even thy right hand?</para>
 	<para style="q1"><char style="add">Pluck it</char> out of thy bosom <char style="add">and</char> consume <char style="add">them</char>.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>Yet God is my King of old,</para>
 	<para style="q1">Working salvation in the midst of the earth.</para>
 	<para style="q1"><verse number="13" style="v"/>Thou didst <note caller="-" style="f"><char style="ft">Hebrew <char style="it">break up</char>.</char></note>divide the sea by thy strength:</para>
@@ -2884,7 +2884,7 @@
 	<para style="q1">My soul refused to be comforted.</para>
 	<para style="q1"><verse number="3" style="v"/>I remember God, and am disquieted:</para>
 	<para style="q1">I complain, and my spirit <note caller="-" style="f"><char style="ft">Or, <char style="it">fainteth</char></char></note>is overwhelmed. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="4" style="v"/>Thou holdest mine eyes watching:</para>
 	<para style="q1">I am so troubled that I cannot speak.</para>
 	<para style="q1"><verse number="5" style="v"/>I have considered the days of old,</para>
@@ -3041,7 +3041,7 @@
 	<para style="q1">He spared not their soul from death,</para>
 	<para style="q1">But gave <note caller="-" style="f"><char style="ft">Or, <char style="it">their beasts to the murrain</char></char></note>their life over to the pestilence,</para>
 	<para style="q1"><verse number="51" style="v"/>And smote all the first-born in Egypt,</para>
-	<para style="q1">The <note caller="-" style="f"><char style="ft">Hebrew <char style="it">beginning</char>. See <char style="xt" br:bibleref="DEU.21.17">Dt. 21:17</char>.</char></note>chief of their strength in the tents of Ham.</para>
+	<para style="q1">The <note caller="-" style="f"><char style="ft">Hebrew <char style="it">beginning</char>. See <ref loc="DEU 21:17">Dt. 21:17</ref>.</char></note>chief of their strength in the tents of Ham.</para>
 	<para style="q1"><verse number="52" style="v"/>But he led forth his own people like sheep,</para>
 	<para style="q1">And guided them in the wilderness like a flock.</para>
 	<para style="q1"><verse number="53" style="v"/>And he led them safely, so that they feared not;</para>
@@ -3128,16 +3128,16 @@
 	<para style="q1">And come to save us.</para>
 	<para style="q1"><verse number="3" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Restore</char></char></note>Turn us again, O God;</para>
 	<para style="q1">And cause thy face to shine, and we shall be saved.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="4" style="v"/>O Jehovah God of hosts,</para>
-	<para style="q1">How long <note caller="-" style="f"><char style="ft">Hebrew <char style="it">wilt thou smoke</char>. See <char style="xt" br:bibleref="PSA.74.1">74:1</char>.</char></note>wilt thou be angry against the prayer of thy people?</para>
+	<para style="q1">How long <note caller="-" style="f"><char style="ft">Hebrew <char style="it">wilt thou smoke</char>. See <ref loc="PSA 74:1">74:1</ref>.</char></note>wilt thou be angry against the prayer of thy people?</para>
 	<para style="q1"><verse number="5" style="v"/>Thou hast fed them with the bread of tears,</para>
 	<para style="q1">And given them tears to drink in large measure.</para>
 	<para style="q1"><verse number="6" style="v"/>Thou makest us a strife unto our neighbors;</para>
 	<para style="q1">And our enemies laugh among themselves.</para>
 	<para style="q1"><verse number="7" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Restore</char></char></note>Turn us again, O God of hosts;</para>
 	<para style="q1">And cause thy face to shine, and we shall be saved.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Thou broughtest a vine out of Egypt:</para>
 	<para style="q1">Thou didst drive out the nations, and plantedst it.</para>
 	<para style="q1"><verse number="9" style="v"/>Thou preparedst <char style="add">room</char> before it,</para>
@@ -3181,7 +3181,7 @@
 	<para style="q1"><verse number="7" style="v"/>Thou calledst in trouble, and I delivered thee;</para>
 	<para style="q1">I answered thee in the secret place of thunder;</para>
 	<para style="q1">I proved thee at the waters of Meribah. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="8" style="v"/>Hear, O my people, and I will testify unto thee:</para>
 	<para style="q1">O Israel, if thou wouldest hearken unto me!</para>
 	<para style="q1"><verse number="9" style="v"/>There shall no strange god be in thee;</para>
@@ -3208,7 +3208,7 @@
 	<para style="q1">He judgeth among the gods.</para>
 	<para style="q1"><verse number="2" style="v"/>How long will ye judge unjustly,</para>
 	<para style="q1">And respect the persons of the wicked? <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="3" style="v"/>Judge the <note caller="-" style="f"><char style="ft">Or, <char style="it">weak</char></char></note>poor and fatherless:</para>
 	<para style="q1">Do justice to the afflicted and destitute.</para>
 	<para style="q1"><verse number="4" style="v"/>Rescue the <note caller="-" style="f"><char style="ft">Or, <char style="it">weak</char></char></note>poor and needy:</para>
@@ -3236,7 +3236,7 @@
 	<para style="q1"><verse number="5" style="v"/>For they have consulted together with one consent;</para>
 	<para style="q1">Against thee do they make a covenant:</para>
 	<para style="q1"><verse number="6" style="v"/>The tents of Edom and the Ishmaelites;</para>
-	<para style="q1">Moab, and the <note caller="-" style="f"><char style="ft">Or, <char style="it">Hagrites</char>. See <char style="xt" br:bibleref="1CH.5.10">1 Chr. 5:10</char>.</char></note>Hagarenes;</para>
+	<para style="q1">Moab, and the <note caller="-" style="f"><char style="ft">Or, <char style="it">Hagrites</char>. See <ref loc="1CH 5:10">1 Chr. 5:10</ref>.</char></note>Hagarenes;</para>
 	<para style="q1"><verse number="7" style="v"/>Gebal, and Ammon, and Amalek;</para>
 	<para style="q1">Philistia with the inhabitants of Tyre:</para>
 	<para style="q1"><verse number="8" style="v"/>Assyria also is joined with them;</para>
@@ -3276,7 +3276,7 @@
 	<para style="q1">They will be still praising thee. <char style="qs">Selah</char></para>
 	<para style="q1"><verse number="5" style="v"/>Blessed is the man whose strength is in thee;</para>
 	<para style="q1">In whose heart are the highways <char style="add">to Zion</char>.</para>
-	<para style="q1"><verse number="6" style="v"/>Passing through the valley of <note caller="-" style="f"><char style="ft">Or, <char style="it">balsam-trees</char>. Hebrew <char style="it">Baca</char>. See <char style="xt" br:bibleref="2SA.5.23">2 Sam. 5:23</char>.</char></note>Weeping they make it a place of springs;</para>
+	<para style="q1"><verse number="6" style="v"/>Passing through the valley of <note caller="-" style="f"><char style="ft">Or, <char style="it">balsam-trees</char>. Hebrew <char style="it">Baca</char>. See <ref loc="2SA 5:23">2 Sam. 5:23</ref>.</char></note>Weeping they make it a place of springs;</para>
 	<para style="q1">Yea, the early rain covereth it with blessings.</para>
 	<para style="q1"><verse number="7" style="v"/>They go from strength to strength;</para>
 	<para style="q1">Every one of them appeareth before God in Zion.</para>
@@ -3406,7 +3406,7 @@
 	<para style="q1"><verse number="10" style="v"/>Wilt thou show wonders to the dead?</para>
 	<para style="q1">Shall <note caller="-" style="f"><char style="ft">Or, <char style="it">the shades</char>. Hebrew <char style="it">Rephaim</char>.</char></note>they that are deceased arise and praise thee? <char style="qs">Selah</char></para>
 	<para style="q1"><verse number="11" style="v"/>Shall thy lovingkindness be declared in the grave?</para>
-	<para style="q1">Or thy faithfulness in <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Abaddon</char>. See <char style="xt" br:bibleref="JOB.26.6">Job 26:6</char>.</char></note>Destruction?</para>
+	<para style="q1">Or thy faithfulness in <note caller="-" style="f"><char style="ft">Hebrew <char style="it">Abaddon</char>. See <ref loc="JOB 26:6">Job 26:6</ref>.</char></note>Destruction?</para>
 	<para style="q1"><verse number="12" style="v"/>Shall thy wonders be known in the dark?</para>
 	<para style="q1">And thy righteousness in the land of forgetfulness?</para>
 	<para style="q1"><verse number="13" style="v"/>But unto thee, O Jehovah, have I cried;</para>
@@ -3428,7 +3428,7 @@
 	<para style="q1">With my mouth will I make known thy faithfulness to all generations.</para>
 	<para style="q1"><verse number="2" style="v"/>For I have said, Mercy shall be built up for ever;</para>
 	<para style="q1">Thy faithfulness wilt thou establish in the very heavens.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="3" style="v"/>I have made a covenant with my chosen,</para>
 	<para style="q1">I have sworn unto David my servant:</para>
 	<para style="q1"><verse number="4" style="v"/>Thy seed will I establish for ever,</para>
@@ -3436,7 +3436,7 @@
 	<para style="q1"><verse number="5" style="v"/>And the heavens shall praise thy wonders, O Jehovah;</para>
 	<para style="q1">Thy faithfulness also in the assembly of the holy ones.</para>
 	<para style="q1"><verse number="6" style="v"/>For who in the skies can be compared unto Jehovah?</para>
-	<para style="q1">Who among the <note caller="-" style="f"><char style="ft">Or, <char style="it">sons of God</char></char></note>sons of the <note caller="-" style="f"><char style="ft">Or, <char style="it">gods</char>. See <char style="xt" br:bibleref="PSA.29.1">29:1</char>.</char></note>mighty is like unto Jehovah,</para>
+	<para style="q1">Who among the <note caller="-" style="f"><char style="ft">Or, <char style="it">sons of God</char></char></note>sons of the <note caller="-" style="f"><char style="ft">Or, <char style="it">gods</char>. See <ref loc="PSA 29:1">29:1</ref>.</char></note>mighty is like unto Jehovah,</para>
 	<para style="q1"><verse number="7" style="v"/>A God very terrible in the council of the holy ones,</para>
 	<para style="q1">And to be feared above all them that are round about him?</para>
 	<para style="q1"><verse number="8" style="v"/>O Jehovah God of hosts,</para>
@@ -3462,7 +3462,7 @@
 	<para style="q1">And in thy favor <note caller="-" style="f"><char style="ft">Another reading is, <char style="it">thou shalt exalt our horn</char>.</char></note>our horn shall be exalted.</para>
 	<para style="q1"><verse number="18" style="v"/>For our shield belongeth unto Jehovah;</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">Even to the Holy One of Israel our King</char></char></note>And our king to the Holy One of Israel.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="19" style="v"/>Then thou spakest in vision to thy <note caller="-" style="f"><char style="ft">Or, as otherwise read, <char style="it">saint</char></char></note>saints,</para>
 	<para style="q1">And saidst, I have laid help upon one that is mighty;</para>
 	<para style="q1">I have exalted one chosen out of the people.</para>
@@ -3502,7 +3502,7 @@
 	<para style="q1">And his throne as the sun before me.</para>
 	<para style="q1"><verse number="37" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">As the moon which is established for ever</char></char></note>It shall be established for ever as the moon,</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Or, <char style="it">And the witness in the sky is faithful</char></char></note>And <char style="add">as</char> the faithful witness in the sky. <char style="qs">Selah</char></para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="38" style="v"/>But thou hast cast off and rejected,</para>
 	<para style="q1">Thou hast been wroth with thine anointed.</para>
 	<para style="q1"><verse number="39" style="v"/>Thou hast abhorred the covenant of thy servant:</para>
@@ -3531,7 +3531,7 @@
 	<para style="q1">How I do bear in my bosom <char style="add">the reproach of</char> all the <note caller="-" style="f"><char style="ft">Or, <char style="it">many</char></char></note>mighty peoples,</para>
 	<para style="q1"><verse number="51" style="v"/>Wherewith thine enemies have reproached, O Jehovah,</para>
 	<para style="q1">Wherewith they have reproached the footsteps of thine anointed.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="52" style="v"/>Blessed be Jehovah for evermore.</para>
 	<para style="q1">Amen, and Amen.</para>
 	<chapter number="90" style="c"/>
@@ -3829,14 +3829,14 @@
 	<para style="q1">And he is high above all the peoples.</para>
 	<para style="q1"><verse number="3" style="v"/>Let them praise thy great and terrible name:</para>
 	<para style="q1">Holy is he.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="4" style="v"/>The king&#8217;s strength also loveth justice;</para>
 	<para style="q1">Thou dost establish equity;</para>
 	<para style="q1">Thou executest justice and righteousness in Jacob.</para>
 	<para style="q1"><verse number="5" style="v"/>Exalt ye Jehovah our God,</para>
 	<para style="q1">And worship at his footstool:</para>
 	<para style="q1">Holy is he.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>Moses and Aaron among his priests,</para>
 	<para style="q1">And Samuel among them that call upon his name;</para>
 	<para style="q1">They called upon Jehovah, and he answered them.</para>
@@ -3910,7 +3910,7 @@
 	<para style="q1">For thou hast taken me up, and cast me away.</para>
 	<para style="q1"><verse number="11" style="v"/>My days are like a shadow that <note caller="-" style="f"><char style="ft">Or, <char style="it">is stretched out</char></char></note>declineth;</para>
 	<para style="q1">And I am withered like grass.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>But thou, O Jehovah, <note caller="-" style="f"><char style="ft">Or, <char style="it">sittest</char> as King</char></note>wilt abide for ever;</para>
 	<para style="q1">And thy memorial <char style="add">name</char> unto all generations.</para>
 	<para style="q1"><verse number="13" style="v"/>Thou wilt arise, and have mercy upon Zion;</para>
@@ -3934,7 +3934,7 @@
 	<para style="q1">And his praise in Jerusalem;</para>
 	<para style="q1"><verse number="22" style="v"/>When the peoples are gathered together,</para>
 	<para style="q1">And the kingdoms, to serve Jehovah.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="23" style="v"/>He <note caller="-" style="f"><char style="ft">Another reading is, <char style="it">afflicted</char> me with <char style="it">his strength</char></char></note>weakened my strength in the way;</para>
 	<para style="q1">He shortened my days.</para>
 	<para style="q1"><verse number="24" style="v"/>I said, O my God, take me not away in the midst of my days:</para>
@@ -4056,7 +4056,7 @@
 	<para style="q1">Wherein are things creeping innumerable,</para>
 	<para style="q1">Both small and great beasts.</para>
 	<para style="q1"><verse number="26" style="v"/>There go the ships;</para>
-	<para style="q1">There is leviathan, whom thou hast formed to play <note caller="-" style="f"><char style="ft">Or, <char style="it">with him</char>. See <char style="xt" br:bibleref="JOB.41.5">Job 41:5</char>.</char></note>therein.</para>
+	<para style="q1">There is leviathan, whom thou hast formed to play <note caller="-" style="f"><char style="ft">Or, <char style="it">with him</char>. See <ref loc="JOB 41:5">Job 41:5</ref>.</char></note>therein.</para>
 	<para style="q1"><verse number="27" style="v"/>These wait all for thee,</para>
 	<para style="q1">That thou mayest give them their food in due season.</para>
 	<para style="q1"><verse number="28" style="v"/>Thou givest unto them, they gather;</para>
@@ -4151,7 +4151,7 @@
 	<para style="q1"><verse number="35" style="v"/>And did eat up every herb in their land,</para>
 	<para style="q1">And did eat up the fruit of their ground.</para>
 	<para style="q1"><verse number="36" style="v"/>He smote also all the first-born in their land,</para>
-	<para style="q1">The <note caller="-" style="f"><char style="ft">Hebrew <char style="it">beginning</char>. See <char style="xt" br:bibleref="DEU.21.17">Dt. 21:17</char>.</char></note>chief of all their strength.</para>
+	<para style="q1">The <note caller="-" style="f"><char style="ft">Hebrew <char style="it">beginning</char>. See <ref loc="DEU 21:17">Dt. 21:17</ref>.</char></note>chief of all their strength.</para>
 	<para style="q1"><verse number="37" style="v"/>And he brought them forth with silver and gold;</para>
 	<para style="q1">And there was <note caller="-" style="f"><char style="ft">Or, <char style="it">none that stumbled</char></char></note>not one feeble person among his tribes.</para>
 	<para style="q1"><verse number="38" style="v"/>Egypt was glad when they departed;</para>
@@ -4185,7 +4185,7 @@
 	<para style="q1"><verse number="5" style="v"/>That I may see the prosperity of thy chosen,</para>
 	<para style="q1">That I may rejoice in the gladness of thy nation,</para>
 	<para style="q1">That I may glory with thine inheritance.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="6" style="v"/>We have sinned with our fathers,</para>
 	<para style="q1">We have committed iniquity, we have done wickedly.</para>
 	<para style="q1"><verse number="7" style="v"/>Our fathers understood not thy wonders in Egypt;</para>
@@ -4272,12 +4272,12 @@
 	<para style="q1">And repented according to the multitude of his lovingkindnesses.</para>
 	<para style="q1"><verse number="46" style="v"/>He made them also to be pitied</para>
 	<para style="q1">Of all those that carried them captive.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="47" style="v"/>Save us, O Jehovah our God,</para>
 	<para style="q1">And gather us from among the nations,</para>
 	<para style="q1">To give thanks unto thy holy name,</para>
 	<para style="q1">And to triumph in thy praise.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="48" style="v"/>Blessed be Jehovah, the God of Israel,</para>
 	<para style="q1">From everlasting even to everlasting.</para>
 	<para style="q1">And let all the people say, Amen.</para>
@@ -4292,7 +4292,7 @@
 	<para style="q1"><verse number="3" style="v"/>And gathered out of the lands,</para>
 	<para style="q1">From the east and from the west,</para>
 	<para style="q1">From the north and <note caller="-" style="f"><char style="ft">Hebrew <char style="it">from the sea</char>.</char></note>from the south.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="4" style="v"/>They wandered in the wilderness in a desert way;</para>
 	<para style="q1">They found no city of habitation.</para>
 	<para style="q1"><verse number="5" style="v"/>Hungry and thirsty,</para>
@@ -4305,7 +4305,7 @@
 	<para style="q1">And for his wonderful works to the children of men!</para>
 	<para style="q1"><verse number="9" style="v"/>For he satisfieth the longing soul,</para>
 	<para style="q1">And the hungry soul he filleth with good.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="10" style="v"/>Such as sat in darkness and in the shadow of death,</para>
 	<para style="q1">Being bound in affliction and iron,</para>
 	<para style="q1"><verse number="11" style="v"/>Because they rebelled against the words of God,</para>
@@ -4320,7 +4320,7 @@
 	<para style="q1">And for his wonderful works to the children of men!</para>
 	<para style="q1"><verse number="16" style="v"/>For he hath broken the gates of brass,</para>
 	<para style="q1">And cut the bars of iron in sunder.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="17" style="v"/>Fools because of <note caller="-" style="f"><char style="ft">Hebrew <char style="it">the way of their transgression</char>.</char></note>their transgression,</para>
 	<para style="q1">And because of their iniquities, are afflicted.</para>
 	<para style="q1"><verse number="18" style="v"/>Their soul abhorreth all manner of food;</para>
@@ -4333,7 +4333,7 @@
 	<para style="q1">And for his wonderful works to the children of men!</para>
 	<para style="q1"><verse number="22" style="v"/>And let them offer the sacrifices of thanksgiving,</para>
 	<para style="q1">And declare his works with singing.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="23" style="v"/>They that go down to the sea in ships,</para>
 	<para style="q1">That do business in great waters;</para>
 	<para style="q1"><verse number="24" style="v"/>These see the works of Jehovah,</para>
@@ -4354,7 +4354,7 @@
 	<para style="q1">And for his wonderful works to the children of men!</para>
 	<para style="q1"><verse number="32" style="v"/>Let them exalt him also in the assembly of the people,</para>
 	<para style="q1">And praise him in the seat of the elders.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="33" style="v"/>He turneth rivers into a wilderness,</para>
 	<para style="q1">And watersprings into a thirsty ground;</para>
 	<para style="q1"><verse number="34" style="v"/>A fruitful land into a salt desert,</para>
@@ -5142,7 +5142,7 @@
 	<para style="q1">From whence shall my help come?</para>
 	<para style="q1"><verse number="2" style="v"/>My help <char style="add">cometh</char> from Jehovah,</para>
 	<para style="q1">Who made heaven and earth.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="3" style="v"/><note caller="-" style="f"><char style="ft">Or, <char style="it">Let him not suffer&#160;.&#160;.&#160;. Let him not slumber that etc.</char></char></note>He will not suffer thy foot to be moved:</para>
 	<para style="q1">He that keepeth thee will not slumber.</para>
 	<para style="q1"><verse number="4" style="v"/>Behold, he that keepeth Israel</para>
@@ -5341,7 +5341,7 @@
 	<para style="q1"><verse number="5" style="v"/>Until I find out a place for Jehovah,</para>
 	<para style="q1"><note caller="-" style="f"><char style="ft">Hebrew <char style="it">Tabernacles</char>.</char></note>A tabernacle for the Mighty One of Jacob.</para>
 	<para style="q1"><verse number="6" style="v"/>Lo, we heard of it in <note caller="-" style="f"><char style="ft">Or, <char style="it">Ephraim</char></char></note>Ephrathah:</para>
-	<para style="q1">We found it in the field of <note caller="-" style="f"><char style="ft">Or, <char style="it">Jaar</char>. See <char style="xt" br:bibleref="1CH.13.5">1 Chr. 13:5</char>.</char></note>the wood.</para>
+	<para style="q1">We found it in the field of <note caller="-" style="f"><char style="ft">Or, <char style="it">Jaar</char>. See <ref loc="1CH 13:5">1 Chr. 13:5</ref>.</char></note>the wood.</para>
 	<para style="q1"><verse number="7" style="v"/>We will go into his tabernacles;</para>
 	<para style="q1">We will worship at his footstool.</para>
 	<para style="q1"><verse number="8" style="v"/>Arise, O Jehovah, into thy resting-place;</para>
@@ -5423,7 +5423,7 @@
 	<para style="q1">Thy memorial <char style="add">name</char>, O Jehovah, throughout all generations.</para>
 	<para style="q1"><verse number="14" style="v"/>For Jehovah will judge his people,</para>
 	<para style="q1">And repent himself concerning his servants.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="15" style="v"/>The idols of the nations are silver and gold,</para>
 	<para style="q1">The work of men&#8217;s hands.</para>
 	<para style="q1"><verse number="16" style="v"/>They have mouths, but they speak not;</para>
@@ -5747,7 +5747,7 @@
 	<para style="q1"><verse number="11" style="v"/>Rescue me, and deliver me out of the hand of aliens,</para>
 	<para style="q1">Whose mouth speaketh deceit,</para>
 	<para style="q1">And whose right hand is a right hand of falsehood.</para>
-	<para class="b"/>
+	<para style="b"/>
 	<para style="q1"><verse number="12" style="v"/>When our sons shall be as plants grown up in their youth,</para>
 	<para style="q1">And our daughters as corner-stones hewn after the fashion of a palace;</para>
 	<para style="q1"><verse number="13" style="v"/><char style="add">When</char> our garners are full, affording all manner of store,</para>
