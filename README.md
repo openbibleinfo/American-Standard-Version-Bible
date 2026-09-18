@@ -16,7 +16,7 @@ Footnotes contain the following changes from the original:
 
 ## Format
 
-The files are in [USX](https://www.thedigitalbiblelibrary.org/static/docs/usx/index.html) format, which is an XML derivative of the [USFM](http://paratext.org/about/usfm) format preferred by [United Bible Societies](https://www.unitedbiblesocieties.org/).
+The files are in [USX 3.0](https://ubsicap.github.io/usx/) format, which is an XML derivative of the [USFM](https://paratext.org/usfm/) format used by [United Bible Societies](https://www.unitedbiblesocieties.org/) and the [Digital Bible Library](https://library.bible/).
 
 ## Corrections
 
